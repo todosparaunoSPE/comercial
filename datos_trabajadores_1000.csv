@@ -1,0 +1,1001 @@
+ID_Trabajador,Edad,Ingreso_Mensual,Estado,Delegacion,Visitas_Promotor,Fecha_Ultimo_Contacto,Interes,Prob_Traspaso
+EMP_0001,60,70041.17,Sonora,Norte,1,2025-02-26,Medio,0.01
+EMP_0002,50,35756.06,Nuevo León,Este,3,2024-12-25,Bajo,0.4
+EMP_0003,36,37602.06,Oaxaca,Norte,2,2024-09-26,Bajo,0.25
+EMP_0004,64,24861.2,Colima,Oeste,2,2024-09-16,Bajo,0.35
+EMP_0005,29,26588.38,Tamaulipas,Este,1,2024-11-11,Medio,0.35
+EMP_0006,42,15084.06,México,Este,1,2025-04-04,Bajo,0.55
+EMP_0007,60,37125.61,Chiapas,Sur,6,2024-04-26,Bajo,0.05
+EMP_0008,40,98940.67,Querétaro,Sur,3,2024-11-08,Bajo,0.3
+EMP_0009,44,24162.38,Coahuila,Norte,1,2024-07-27,Medio,0.2
+EMP_0010,32,119429.17,Campeche,Este,6,2025-01-27,Bajo,0.2
+EMP_0011,32,63940.01,Tamaulipas,Sur,3,2024-07-31,Alto,0.01
+EMP_0012,45,30048.39,Michoacán,Oeste,4,2024-12-04,Medio,0.2
+EMP_0013,57,36713.72,Sinaloa,Sur,0,2025-02-06,Medio,0.15
+EMP_0014,61,34405.09,Guanajuato,Metropolitana,1,2024-08-29,Medio,0.1
+EMP_0015,45,71859.32,Sonora,Metropolitana,3,2024-11-02,Bajo,0.3
+EMP_0016,24,44658.78,Campeche,Sur,4,2025-03-30,Bajo,0.45
+EMP_0017,43,58266.91,Hidalgo,Este,2,2024-08-25,Alto,0.01
+EMP_0018,23,41909.54,Zacatecas,Este,1,2024-10-01,Medio,0.2
+EMP_0019,45,34724.85,Sonora,Centro,2,2024-04-30,Alto,0.01
+EMP_0020,51,41380.68,Morelos,Metropolitana,7,2025-03-15,Medio,0.01
+EMP_0021,59,30860.19,Guerrero,Oeste,3,2024-04-20,Bajo,0.3
+EMP_0022,23,20315.07,Tlaxcala,Este,1,2024-05-11,Bajo,0.6
+EMP_0023,42,50285.67,Nayarit,Norte,2,2024-05-18,Medio,0.05
+EMP_0024,54,19921.09,Sinaloa,Metropolitana,1,2024-06-02,Bajo,0.35
+EMP_0025,33,32613.0,Sinaloa,Oeste,4,2024-06-22,Bajo,0.45
+EMP_0026,43,30456.49,Aguascalientes,Oeste,3,2024-05-19,Alto,0.01
+EMP_0027,46,46973.63,Campeche,Este,3,2024-09-06,Bajo,0.3
+EMP_0028,48,67906.15,Querétaro,Oeste,3,2024-11-18,Bajo,0.3
+EMP_0029,63,58805.36,Chihuahua,Este,3,2024-07-29,Alto,0.01
+EMP_0030,49,47523.04,Colima,Sur,4,2024-06-26,Alto,0.01
+EMP_0031,37,28227.48,Yucatán,Metropolitana,0,2024-06-19,Bajo,0.65
+EMP_0032,36,33745.84,Nuevo León,Centro,2,2024-11-22,Alto,0.1
+EMP_0033,24,31834.01,Sinaloa,Sur,3,2024-08-22,Alto,0.15
+EMP_0034,58,30088.17,Nuevo León,Metropolitana,5,2024-12-20,Bajo,0.45
+EMP_0035,28,30915.7,Nuevo León,Este,3,2025-01-14,Bajo,0.7
+EMP_0036,42,30587.44,Baja California Sur,Metropolitana,5,2024-09-18,Bajo,0.45
+EMP_0037,30,30050.35,Guerrero,Este,5,2024-11-01,Medio,0.15
+EMP_0038,60,53143.61,Durango,Sur,3,2025-01-20,Bajo,0.2
+EMP_0039,39,23816.77,Jalisco,Norte,2,2025-01-27,Alto,0.1
+EMP_0040,25,27124.98,Sonora,Norte,2,2024-11-04,Medio,0.35
+EMP_0041,46,19276.41,Hidalgo,Metropolitana,2,2025-04-09,Medio,0.2
+EMP_0042,35,63971.51,Michoacán,Norte,3,2025-01-26,Alto,0.01
+EMP_0043,30,26407.38,Jalisco,Este,1,2025-01-13,Alto,0.1
+EMP_0044,47,47302.11,Baja California Sur,Oeste,3,2025-01-17,Bajo,0.3
+EMP_0045,23,43920.11,México,Este,1,2024-07-18,Bajo,0.55
+EMP_0046,41,61545.71,Coahuila,Oeste,0,2024-12-31,Medio,0.25
+EMP_0047,49,33389.39,Chihuahua,Sur,5,2024-05-10,Bajo,0.45
+EMP_0048,28,24859.22,Baja California Sur,Centro,2,2024-10-21,Bajo,0.6
+EMP_0049,29,19490.84,Hidalgo,Oeste,3,2025-02-19,Medio,0.35
+EMP_0050,56,11922.06,Sinaloa,Norte,3,2024-09-15,Alto,0.01
+EMP_0051,35,38736.64,Durango,Este,6,2025-01-09,Bajo,0.2
+EMP_0052,38,49522.83,Guanajuato,Sur,4,2024-09-03,Medio,0.05
+EMP_0053,57,43856.37,Puebla,Norte,5,2025-04-05,Bajo,0.2
+EMP_0054,61,19694.49,Coahuila,Sur,3,2025-02-20,Medio,0.1
+EMP_0055,25,55024.32,Tlaxcala,Centro,2,2025-01-27,Bajo,0.45
+EMP_0056,23,27466.26,Nayarit,Este,3,2024-09-20,Alto,0.15
+EMP_0057,27,25266.6,México,Metropolitana,5,2024-06-02,Bajo,0.7
+EMP_0058,63,27221.08,Nuevo León,Este,1,2024-06-16,Medio,0.2
+EMP_0059,25,37472.54,Chihuahua,Centro,2,2024-06-08,Bajo,0.45
+EMP_0060,50,20052.71,Puebla,Este,4,2024-05-19,Bajo,0.45
+EMP_0061,39,35781.48,Hidalgo,Metropolitana,2,2024-12-23,Bajo,0.3
+EMP_0062,47,43121.6,Tlaxcala,Oeste,3,2024-04-28,Bajo,0.3
+EMP_0063,55,56552.78,Chihuahua,Sur,5,2024-10-31,Bajo,0.2
+EMP_0064,31,38963.58,Morelos,Metropolitana,3,2024-07-09,Bajo,0.3
+EMP_0065,57,21250.77,Oaxaca,Norte,1,2025-03-18,Medio,0.05
+EMP_0066,35,38544.01,Baja California,Centro,3,2025-02-03,Medio,0.05
+EMP_0067,52,23763.28,Hidalgo,Oeste,1,2024-09-08,Bajo,0.35
+EMP_0068,36,23221.22,San Luis Potosí,Norte,2,2024-10-07,Medio,0.2
+EMP_0069,29,21055.53,Tabasco,Norte,2,2024-05-16,Bajo,0.6
+EMP_0070,35,16907.26,Guanajuato,Centro,1,2024-06-12,Medio,0.2
+EMP_0071,44,28944.48,Sonora,Oeste,1,2024-12-11,Bajo,0.45
+EMP_0072,61,57042.71,Zacatecas,Norte,2,2025-03-26,Medio,0.01
+EMP_0073,42,89553.69,Tamaulipas,Norte,7,2024-07-31,Bajo,0.2
+EMP_0074,37,28870.22,Campeche,Oeste,3,2024-06-22,Alto,0.01
+EMP_0075,39,56074.82,San Luis Potosí,Este,3,2025-03-23,Bajo,0.3
+EMP_0076,45,31013.17,Guanajuato,Norte,3,2025-03-05,Bajo,0.45
+EMP_0077,47,18764.19,Zacatecas,Sur,4,2025-03-07,Bajo,0.45
+EMP_0078,46,48068.24,Morelos,Oeste,1,2025-02-25,Alto,0.01
+EMP_0079,62,39891.78,Campeche,Norte,4,2024-10-13,Medio,0.01
+EMP_0080,50,75147.48,San Luis Potosí,Centro,2,2025-01-29,Medio,0.05
+EMP_0081,36,19655.82,Guerrero,Metropolitana,2,2024-09-17,Alto,0.01
+EMP_0082,22,111125.23,Zacatecas,Sur,0,2024-10-13,Alto,0.2
+EMP_0083,46,68643.86,Zacatecas,Metropolitana,1,2024-12-28,Medio,0.05
+EMP_0084,28,36056.07,Querétaro,Metropolitana,2,2024-10-08,Bajo,0.45
+EMP_0085,30,32226.52,Chiapas,Norte,2,2024-07-24,Alto,0.01
+EMP_0086,45,27273.64,Quintana Roo,Sur,5,2025-01-18,Bajo,0.45
+EMP_0087,22,37945.0,Baja California Sur,Sur,4,2024-05-25,Medio,0.2
+EMP_0088,29,33739.53,Aguascalientes,Este,2,2024-05-18,Medio,0.35
+EMP_0089,45,44601.29,Tabasco,Metropolitana,2,2024-11-28,Medio,0.05
+EMP_0090,32,32281.62,Coahuila,Sur,3,2024-05-03,Medio,0.2
+EMP_0091,38,63958.23,Hidalgo,Este,5,2024-05-13,Medio,0.05
+EMP_0092,29,38178.14,Zacatecas,Oeste,1,2025-01-09,Alto,0.01
+EMP_0093,56,32770.15,Guerrero,Este,2,2024-05-23,Bajo,0.3
+EMP_0094,56,54705.23,Guanajuato,Centro,3,2024-08-12,Bajo,0.2
+EMP_0095,54,18977.14,Veracruz,Norte,0,2025-01-14,Medio,0.3
+EMP_0096,26,41622.47,Campeche,Oeste,2,2025-02-14,Alto,0.01
+EMP_0097,63,36688.86,Sinaloa,Oeste,5,2025-03-17,Bajo,0.2
+EMP_0098,60,20653.91,Zacatecas,Centro,2,2025-02-01,Bajo,0.35
+EMP_0099,62,18335.58,Tlaxcala,Este,3,2024-07-18,Bajo,0.35
+EMP_0100,49,54401.01,Querétaro,Norte,2,2025-03-21,Bajo,0.3
+EMP_0101,28,53375.99,Guanajuato,Este,0,2024-12-23,Alto,0.2
+EMP_0102,30,38910.65,Colima,Sur,7,2024-06-18,Medio,0.01
+EMP_0103,29,72161.58,Tabasco,Este,5,2025-02-17,Medio,0.2
+EMP_0104,33,43320.76,Tlaxcala,Oeste,0,2024-09-03,Medio,0.25
+EMP_0105,55,59869.48,Nayarit,Norte,3,2024-12-15,Medio,0.01
+EMP_0106,54,42964.52,Colima,Este,8,2024-10-17,Bajo,0.1
+EMP_0107,44,32522.13,Campeche,Norte,4,2024-06-30,Bajo,0.45
+EMP_0108,45,23789.21,Baja California Sur,Norte,3,2024-07-07,Bajo,0.45
+EMP_0109,58,28527.55,San Luis Potosí,Sur,2,2024-10-07,Bajo,0.35
+EMP_0110,56,32766.14,México,Sur,4,2025-02-07,Bajo,0.45
+EMP_0111,61,62646.38,Veracruz,Oeste,5,2024-06-20,Bajo,0.2
+EMP_0112,43,49412.95,San Luis Potosí,Centro,3,2024-08-08,Bajo,0.3
+EMP_0113,48,41445.21,Chihuahua,Norte,0,2025-01-28,Bajo,0.5
+EMP_0114,56,51431.39,Puebla,Centro,2,2024-11-28,Medio,0.01
+EMP_0115,22,44844.38,México,Oeste,4,2024-11-01,Bajo,0.55
+EMP_0116,56,40326.94,Nuevo León,Norte,5,2024-08-24,Alto,0.01
+EMP_0117,58,19941.06,San Luis Potosí,Norte,2,2024-08-02,Bajo,0.35
+EMP_0118,35,57277.49,Sonora,Metropolitana,3,2024-06-24,Medio,0.05
+EMP_0119,24,30230.16,Tamaulipas,Centro,1,2024-10-26,Alto,0.15
+EMP_0120,22,56129.46,Colima,Este,4,2024-06-01,Alto,0.01
+EMP_0121,26,58342.38,Aguascalientes,Sur,5,2024-10-22,Alto,0.01
+EMP_0122,47,27777.58,San Luis Potosí,Este,2,2024-05-04,Bajo,0.45
+EMP_0123,35,53097.57,Campeche,Centro,4,2025-03-27,Bajo,0.3
+EMP_0124,60,31432.73,Guanajuato,Sur,5,2025-02-03,Bajo,0.35
+EMP_0125,48,31507.69,Aguascalientes,Este,2,2024-05-11,Bajo,0.45
+EMP_0126,30,40254.99,Quintana Roo,Metropolitana,2,2024-12-19,Bajo,0.3
+EMP_0127,36,40692.09,Chihuahua,Sur,6,2025-01-24,Alto,0.01
+EMP_0128,36,36879.85,Querétaro,Norte,0,2025-03-30,Medio,0.25
+EMP_0129,47,21296.22,Zacatecas,Este,3,2024-10-20,Medio,0.2
+EMP_0130,63,34593.51,Baja California Sur,Sur,3,2024-07-19,Alto,0.01
+EMP_0131,34,90345.05,Baja California Sur,Metropolitana,4,2024-12-16,Medio,0.05
+EMP_0132,53,11925.07,Guerrero,Sur,10,2024-06-19,Medio,0.05
+EMP_0133,60,51425.85,Tamaulipas,Sur,5,2024-10-08,Medio,0.01
+EMP_0134,53,55428.54,Coahuila,Metropolitana,4,2025-02-16,Bajo,0.2
+EMP_0135,25,21092.25,Hidalgo,Este,3,2024-09-27,Bajo,0.6
+EMP_0136,51,30098.31,Baja California Sur,Oeste,1,2025-03-28,Alto,0.01
+EMP_0137,58,24336.03,Sinaloa,Este,2,2024-06-30,Alto,0.01
+EMP_0138,44,76235.78,Jalisco,Centro,4,2025-02-18,Alto,0.01
+EMP_0139,60,56455.62,Sinaloa,Metropolitana,4,2024-07-19,Bajo,0.2
+EMP_0140,36,57559.25,Veracruz,Este,2,2024-06-15,Alto,0.01
+EMP_0141,64,38111.03,Colima,Sur,1,2025-01-17,Bajo,0.2
+EMP_0142,50,61379.84,Tabasco,Metropolitana,2,2024-05-31,Bajo,0.3
+EMP_0143,57,36196.05,Baja California,Norte,2,2025-03-16,Bajo,0.2
+EMP_0144,34,62546.34,Tlaxcala,Este,1,2025-03-23,Bajo,0.3
+EMP_0145,53,34218.49,Querétaro,Metropolitana,3,2024-05-28,Bajo,0.35
+EMP_0146,28,27675.51,Tlaxcala,Este,1,2024-07-03,Bajo,0.6
+EMP_0147,43,74935.28,Aguascalientes,Metropolitana,1,2025-02-25,Bajo,0.3
+EMP_0148,49,36013.91,Chihuahua,Sur,4,2025-04-09,Bajo,0.3
+EMP_0149,23,25348.63,Jalisco,Norte,4,2024-08-07,Medio,0.45
+EMP_0150,63,25239.02,Hidalgo,Norte,3,2024-11-02,Medio,0.1
+EMP_0151,27,25269.88,Colima,Centro,2,2024-09-24,Bajo,0.6
+EMP_0152,49,50908.08,Hidalgo,Metropolitana,4,2025-01-03,Bajo,0.3
+EMP_0153,49,34907.43,Campeche,Este,4,2025-02-02,Medio,0.2
+EMP_0154,41,91051.78,Jalisco,Norte,5,2024-11-02,Medio,0.15
+EMP_0155,51,58364.98,Sonora,Norte,4,2024-10-23,Bajo,0.2
+EMP_0156,32,40249.6,Michoacán,Oeste,1,2024-11-24,Medio,0.05
+EMP_0157,49,63675.75,Aguascalientes,Oeste,2,2024-11-27,Alto,0.01
+EMP_0158,46,29786.1,México,Norte,1,2025-02-07,Bajo,0.55
+EMP_0159,60,17293.49,Aguascalientes,Metropolitana,1,2024-09-28,Bajo,0.35
+EMP_0160,54,24444.65,Yucatán,Centro,4,2024-05-21,Bajo,0.35
+EMP_0161,22,38518.08,Campeche,Norte,2,2024-08-29,Medio,0.2
+EMP_0162,48,33222.53,Quintana Roo,Sur,2,2024-07-07,Bajo,0.45
+EMP_0163,34,50501.9,Zacatecas,Este,3,2024-10-24,Bajo,0.3
+EMP_0164,62,34549.71,Tabasco,Centro,0,2024-06-02,Bajo,0.55
+EMP_0165,24,48982.28,Quintana Roo,Sur,2,2025-03-05,Alto,0.01
+EMP_0166,60,66196.88,Tamaulipas,Centro,1,2025-04-07,Medio,0.01
+EMP_0167,27,34507.14,Zacatecas,Sur,1,2024-10-22,Medio,0.35
+EMP_0168,29,45345.13,Puebla,Este,6,2024-11-14,Alto,0.01
+EMP_0169,48,17999.25,Nuevo León,Este,1,2024-09-15,Bajo,0.55
+EMP_0170,30,34559.66,Puebla,Oeste,2,2024-06-16,Alto,0.01
+EMP_0171,58,22186.0,Nayarit,Metropolitana,5,2025-01-18,Medio,0.1
+EMP_0172,54,38487.57,Puebla,Sur,2,2024-08-04,Bajo,0.2
+EMP_0173,63,39910.71,México,Oeste,0,2025-03-24,Alto,0.05
+EMP_0174,45,39857.69,Coahuila,Sur,4,2024-07-31,Alto,0.01
+EMP_0175,36,29969.96,Campeche,Oeste,5,2025-03-12,Alto,0.01
+EMP_0176,53,91070.35,Baja California Sur,Este,3,2024-07-28,Bajo,0.2
+EMP_0177,53,21868.26,Durango,Centro,6,2024-08-23,Alto,0.01
+EMP_0178,45,21340.07,Baja California,Oeste,1,2025-04-11,Alto,0.01
+EMP_0179,62,70403.01,Nuevo León,Sur,1,2024-05-02,Bajo,0.3
+EMP_0180,33,27399.73,Durango,Sur,2,2024-06-10,Bajo,0.45
+EMP_0181,60,24887.57,Tabasco,Metropolitana,2,2024-08-30,Bajo,0.35
+EMP_0182,23,91232.34,Baja California Sur,Este,4,2024-07-04,Alto,0.01
+EMP_0183,24,53867.85,Colima,Sur,0,2025-02-03,Medio,0.4
+EMP_0184,58,28630.11,San Luis Potosí,Norte,1,2024-06-05,Bajo,0.35
+EMP_0185,38,39616.59,Oaxaca,Centro,4,2024-04-15,Bajo,0.25
+EMP_0186,23,79090.54,Baja California,Oeste,1,2024-08-03,Bajo,0.45
+EMP_0187,23,47889.34,Tlaxcala,Metropolitana,3,2024-11-21,Medio,0.2
+EMP_0188,49,60746.17,Tlaxcala,Centro,4,2025-03-21,Bajo,0.3
+EMP_0189,44,50107.26,Guerrero,Este,6,2024-08-23,Alto,0.01
+EMP_0190,58,52685.8,Guerrero,Metropolitana,2,2024-05-16,Medio,0.01
+EMP_0191,53,36897.41,Zacatecas,Oeste,2,2024-10-21,Medio,0.01
+EMP_0192,54,36480.73,Puebla,Oeste,3,2024-05-17,Bajo,0.2
+EMP_0193,22,40409.5,Nayarit,Norte,4,2024-05-24,Bajo,0.45
+EMP_0194,40,48716.89,Tabasco,Este,3,2024-04-22,Bajo,0.3
+EMP_0195,23,32424.64,Durango,Metropolitana,3,2024-11-06,Bajo,0.6
+EMP_0196,47,38132.48,México,Metropolitana,3,2024-05-01,Bajo,0.4
+EMP_0197,53,32075.95,Durango,Sur,2,2024-05-01,Alto,0.01
+EMP_0198,27,38035.45,Sonora,Norte,5,2024-07-02,Bajo,0.45
+EMP_0199,53,22017.69,Nuevo León,Norte,2,2025-03-27,Bajo,0.45
+EMP_0200,25,102990.39,Querétaro,Metropolitana,1,2025-03-01,Bajo,0.45
+EMP_0201,32,27087.4,Colima,Metropolitana,3,2024-11-10,Bajo,0.45
+EMP_0202,38,31426.78,Coahuila,Centro,4,2024-04-24,Alto,0.01
+EMP_0203,59,26168.04,Morelos,Centro,2,2024-08-26,Bajo,0.35
+EMP_0204,45,46457.05,San Luis Potosí,Centro,2,2024-06-02,Bajo,0.3
+EMP_0205,26,33577.08,Nayarit,Norte,2,2024-09-01,Medio,0.35
+EMP_0206,55,24697.99,Baja California,Sur,3,2024-09-09,Bajo,0.35
+EMP_0207,27,47228.53,Tamaulipas,Oeste,1,2025-02-17,Bajo,0.45
+EMP_0208,43,49844.31,Baja California Sur,Centro,2,2025-03-14,Bajo,0.3
+EMP_0209,32,35356.92,Yucatán,Sur,0,2024-04-22,Bajo,0.5
+EMP_0210,37,27848.92,Aguascalientes,Este,2,2025-02-14,Bajo,0.45
+EMP_0211,54,87240.71,Quintana Roo,Centro,2,2024-04-26,Bajo,0.2
+EMP_0212,30,41607.14,Baja California Sur,Oeste,2,2024-08-22,Alto,0.01
+EMP_0213,27,21815.42,Veracruz,Este,4,2024-12-28,Bajo,0.6
+EMP_0214,37,63934.61,Michoacán,Este,2,2024-10-05,Medio,0.05
+EMP_0215,50,25788.66,Chiapas,Oeste,3,2025-03-27,Medio,0.15
+EMP_0216,24,108743.95,Guerrero,Centro,2,2024-08-31,Medio,0.15
+EMP_0217,41,37491.26,Chihuahua,Norte,5,2024-10-29,Bajo,0.3
+EMP_0218,57,54465.7,Chihuahua,Oeste,0,2025-02-02,Bajo,0.4
+EMP_0219,40,15803.6,Yucatán,Oeste,4,2024-04-17,Medio,0.2
+EMP_0220,47,21727.71,México,Oeste,2,2025-02-19,Medio,0.3
+EMP_0221,24,61916.62,Sonora,Este,6,2024-08-12,Medio,0.1
+EMP_0222,40,41238.44,Puebla,Sur,2,2024-04-29,Bajo,0.3
+EMP_0223,41,82203.94,Querétaro,Norte,2,2025-01-28,Alto,0.01
+EMP_0224,53,44093.61,Chiapas,Centro,1,2025-03-10,Bajo,0.15
+EMP_0225,28,38488.64,Colima,Centro,1,2024-07-21,Bajo,0.45
+EMP_0226,62,72072.63,Sonora,Sur,2,2024-06-01,Bajo,0.2
+EMP_0227,54,54396.48,Zacatecas,Oeste,1,2024-06-18,Bajo,0.2
+EMP_0228,61,33573.61,Durango,Norte,5,2024-12-14,Bajo,0.35
+EMP_0229,60,23443.73,Durango,Centro,3,2024-05-25,Medio,0.1
+EMP_0230,39,14063.72,Michoacán,Metropolitana,2,2025-03-20,Alto,0.1
+EMP_0231,61,30483.28,Zacatecas,Centro,3,2024-11-05,Alto,0.01
+EMP_0232,22,22594.59,Durango,Oeste,2,2025-01-20,Bajo,0.6
+EMP_0233,32,102650.15,Jalisco,Metropolitana,2,2024-12-21,Medio,0.15
+EMP_0234,49,27996.97,Tlaxcala,Sur,1,2024-09-03,Bajo,0.45
+EMP_0235,46,27692.49,Aguascalientes,Norte,7,2024-10-30,Bajo,0.35
+EMP_0236,44,19761.72,Baja California,Sur,2,2024-10-05,Bajo,0.45
+EMP_0237,52,32645.85,Oaxaca,Sur,4,2024-10-21,Bajo,0.3
+EMP_0238,51,27838.8,Veracruz,Norte,6,2025-04-13,Bajo,0.25
+EMP_0239,63,72772.38,Colima,Norte,3,2024-08-28,Bajo,0.2
+EMP_0240,56,38847.17,Michoacán,Centro,1,2025-01-18,Medio,0.01
+EMP_0241,28,36186.97,México,Centro,2,2025-02-11,Alto,0.1
+EMP_0242,37,34410.98,Michoacán,Norte,1,2024-05-29,Bajo,0.45
+EMP_0243,47,49735.29,Puebla,Metropolitana,0,2024-09-20,Alto,0.05
+EMP_0244,23,30305.02,Michoacán,Este,1,2024-12-30,Medio,0.35
+EMP_0245,22,47423.94,México,Centro,4,2024-05-31,Medio,0.3
+EMP_0246,33,69257.58,Michoacán,Este,4,2024-06-27,Medio,0.05
+EMP_0247,26,43653.12,Oaxaca,Metropolitana,6,2024-08-07,Bajo,0.3
+EMP_0248,58,32863.16,Nayarit,Norte,1,2025-04-01,Alto,0.01
+EMP_0249,53,24800.43,Tamaulipas,Metropolitana,5,2024-11-02,Medio,0.1
+EMP_0250,30,32531.05,Baja California,Centro,7,2025-03-02,Alto,0.01
+EMP_0251,62,45489.26,Tabasco,Sur,2,2024-12-24,Medio,0.01
+EMP_0252,56,19672.74,Tamaulipas,Norte,2,2024-09-21,Alto,0.01
+EMP_0253,40,50646.08,Durango,Oeste,1,2024-08-01,Medio,0.05
+EMP_0254,37,39460.09,Michoacán,Este,3,2024-06-11,Bajo,0.3
+EMP_0255,24,34211.75,México,Metropolitana,4,2024-11-21,Bajo,0.7
+EMP_0256,41,27895.89,Coahuila,Norte,3,2024-11-19,Bajo,0.45
+EMP_0257,45,30014.89,Jalisco,Metropolitana,2,2024-06-17,Bajo,0.55
+EMP_0258,54,46116.33,Baja California,Norte,2,2024-11-01,Bajo,0.2
+EMP_0259,45,34500.03,Durango,Centro,2,2024-10-27,Alto,0.01
+EMP_0260,32,29719.06,Tabasco,Centro,4,2024-06-20,Medio,0.2
+EMP_0261,29,43801.59,Durango,Centro,6,2024-08-24,Alto,0.01
+EMP_0262,57,44501.4,Tabasco,Metropolitana,1,2024-07-17,Alto,0.01
+EMP_0263,59,22033.74,Nayarit,Oeste,5,2025-02-13,Medio,0.1
+EMP_0264,61,45642.4,Tlaxcala,Centro,0,2024-06-22,Alto,0.01
+EMP_0265,41,98782.85,Nuevo León,Norte,4,2024-08-22,Medio,0.15
+EMP_0266,56,43820.12,Aguascalientes,Centro,4,2024-10-31,Alto,0.01
+EMP_0267,46,18405.36,Querétaro,Sur,5,2024-10-02,Bajo,0.45
+EMP_0268,56,38985.7,Baja California,Centro,1,2024-08-23,Bajo,0.2
+EMP_0269,46,17460.11,México,Metropolitana,5,2024-10-13,Bajo,0.55
+EMP_0270,50,128920.17,Veracruz,Oeste,2,2024-05-16,Medio,0.05
+EMP_0271,39,88811.36,Chihuahua,Sur,2,2024-08-25,Medio,0.05
+EMP_0272,39,27823.18,Jalisco,Metropolitana,6,2024-04-18,Bajo,0.45
+EMP_0273,23,14790.39,San Luis Potosí,Metropolitana,1,2024-12-28,Bajo,0.7
+EMP_0274,56,25556.62,Tlaxcala,Metropolitana,3,2024-09-03,Alto,0.01
+EMP_0275,37,33779.31,Querétaro,Norte,5,2025-01-24,Medio,0.2
+EMP_0276,62,17948.37,Durango,Metropolitana,3,2024-08-23,Bajo,0.35
+EMP_0277,57,35326.58,Querétaro,Norte,0,2024-10-12,Medio,0.15
+EMP_0278,54,33690.41,Guanajuato,Metropolitana,4,2024-10-11,Medio,0.1
+EMP_0279,25,38179.8,San Luis Potosí,Este,2,2024-12-01,Alto,0.01
+EMP_0280,54,39809.39,Yucatán,Sur,1,2024-09-06,Bajo,0.2
+EMP_0281,35,24680.11,San Luis Potosí,Este,6,2024-06-30,Bajo,0.35
+EMP_0282,42,25813.02,Tamaulipas,Metropolitana,5,2024-04-15,Bajo,0.45
+EMP_0283,41,36983.86,Aguascalientes,Sur,4,2024-09-24,Bajo,0.3
+EMP_0284,29,28214.83,San Luis Potosí,Sur,1,2024-11-19,Alto,0.15
+EMP_0285,28,52208.36,Tabasco,Oeste,2,2024-05-25,Bajo,0.45
+EMP_0286,24,36840.68,Baja California,Este,2,2024-12-08,Alto,0.01
+EMP_0287,38,76573.11,Tlaxcala,Oeste,2,2024-11-30,Bajo,0.3
+EMP_0288,54,50422.51,Colima,Sur,2,2024-12-21,Alto,0.01
+EMP_0289,33,56471.17,Querétaro,Norte,0,2024-07-24,Bajo,0.5
+EMP_0290,43,38293.15,Sonora,Sur,8,2025-02-09,Alto,0.01
+EMP_0291,43,38674.84,Querétaro,Oeste,4,2024-11-30,Alto,0.01
+EMP_0292,51,72586.06,Baja California Sur,Este,2,2025-03-04,Alto,0.01
+EMP_0293,59,31215.9,Oaxaca,Metropolitana,3,2024-06-22,Bajo,0.3
+EMP_0294,59,45193.64,Nuevo León,Metropolitana,4,2025-04-11,Bajo,0.3
+EMP_0295,29,32646.89,Tlaxcala,Este,3,2024-10-02,Medio,0.35
+EMP_0296,48,32615.59,Jalisco,Metropolitana,5,2024-12-25,Bajo,0.55
+EMP_0297,48,22752.75,Guanajuato,Metropolitana,6,2024-09-05,Bajo,0.35
+EMP_0298,55,26983.86,Sinaloa,Oeste,9,2025-04-10,Bajo,0.25
+EMP_0299,42,25051.58,Jalisco,Este,4,2024-08-13,Medio,0.3
+EMP_0300,51,46062.18,Querétaro,Centro,5,2024-10-30,Medio,0.01
+EMP_0301,54,55054.69,Querétaro,Norte,3,2025-03-19,Bajo,0.2
+EMP_0302,49,34964.85,Tlaxcala,Norte,2,2025-03-28,Bajo,0.45
+EMP_0303,54,39809.11,Oaxaca,Metropolitana,1,2024-09-10,Bajo,0.15
+EMP_0304,26,34166.86,Morelos,Norte,3,2025-01-12,Medio,0.35
+EMP_0305,40,26257.05,Chiapas,Este,2,2025-03-14,Bajo,0.4
+EMP_0306,25,51272.26,Campeche,Este,3,2024-09-21,Bajo,0.45
+EMP_0307,56,47146.44,Chiapas,Sur,3,2024-09-19,Alto,0.01
+EMP_0308,38,17034.26,Chihuahua,Sur,4,2024-12-28,Alto,0.01
+EMP_0309,49,32427.31,Puebla,Norte,1,2024-11-19,Alto,0.01
+EMP_0310,51,25519.27,San Luis Potosí,Centro,4,2025-01-03,Alto,0.01
+EMP_0311,50,31058.4,Nayarit,Sur,2,2024-05-31,Bajo,0.45
+EMP_0312,27,27773.22,Tabasco,Sur,3,2024-08-16,Medio,0.35
+EMP_0313,56,35647.41,Zacatecas,Este,2,2024-08-10,Bajo,0.2
+EMP_0314,62,31825.85,Tabasco,Centro,2,2024-11-02,Medio,0.1
+EMP_0315,58,31556.78,Quintana Roo,Metropolitana,4,2024-10-23,Bajo,0.35
+EMP_0316,45,56554.24,Nayarit,Norte,4,2025-03-10,Medio,0.05
+EMP_0317,50,45382.03,México,Sur,7,2024-07-04,Medio,0.05
+EMP_0318,52,27403.94,Baja California Sur,Centro,0,2024-04-20,Bajo,0.55
+EMP_0319,56,29079.28,Jalisco,Centro,2,2024-04-21,Medio,0.2
+EMP_0320,54,44210.48,Veracruz,Norte,1,2025-03-24,Bajo,0.2
+EMP_0321,42,44186.2,Tabasco,Centro,5,2024-06-10,Bajo,0.3
+EMP_0322,53,28523.62,Coahuila,Centro,2,2024-11-02,Bajo,0.35
+EMP_0323,44,33070.73,Michoacán,Centro,0,2025-01-07,Bajo,0.65
+EMP_0324,54,76017.77,Tabasco,Sur,1,2024-06-11,Bajo,0.2
+EMP_0325,24,28720.91,Baja California Sur,Norte,4,2024-05-10,Alto,0.15
+EMP_0326,39,77988.9,Jalisco,Centro,6,2025-02-18,Bajo,0.3
+EMP_0327,46,56470.11,Tamaulipas,Centro,1,2024-05-16,Bajo,0.3
+EMP_0328,63,72414.84,Jalisco,Sur,2,2024-12-08,Bajo,0.3
+EMP_0329,52,28236.51,Baja California Sur,Norte,4,2024-10-03,Medio,0.1
+EMP_0330,24,33947.74,Nayarit,Este,5,2024-08-14,Medio,0.35
+EMP_0331,61,30343.41,Tamaulipas,Sur,2,2024-04-30,Medio,0.1
+EMP_0332,45,56994.0,Oaxaca,Norte,3,2025-01-16,Medio,0.01
+EMP_0333,53,28938.45,Colima,Centro,4,2024-05-13,Alto,0.01
+EMP_0334,43,48653.85,Hidalgo,Norte,4,2024-09-11,Alto,0.01
+EMP_0335,44,47634.84,México,Norte,2,2025-01-12,Medio,0.15
+EMP_0336,23,35624.48,Nuevo León,Metropolitana,6,2024-06-15,Bajo,0.45
+EMP_0337,48,61050.94,Sinaloa,Norte,3,2024-08-22,Medio,0.05
+EMP_0338,63,37913.86,Campeche,Este,1,2024-10-12,Medio,0.01
+EMP_0339,23,50697.62,Tlaxcala,Norte,4,2025-03-07,Medio,0.2
+EMP_0340,47,29795.68,Aguascalientes,Este,1,2024-11-26,Alto,0.01
+EMP_0341,38,27190.56,Hidalgo,Centro,4,2024-10-01,Medio,0.2
+EMP_0342,61,48652.49,Aguascalientes,Este,2,2025-03-30,Alto,0.01
+EMP_0343,54,43145.62,Jalisco,Centro,2,2024-07-31,Bajo,0.3
+EMP_0344,30,40027.54,Nayarit,Centro,2,2024-11-30,Bajo,0.3
+EMP_0345,64,31650.99,Morelos,Este,3,2025-04-13,Bajo,0.35
+EMP_0346,60,67486.56,Chihuahua,Sur,6,2025-02-24,Alto,0.01
+EMP_0347,50,23233.85,Querétaro,Oeste,2,2025-01-08,Alto,0.01
+EMP_0348,63,22730.5,Baja California,Norte,4,2024-09-25,Medio,0.1
+EMP_0349,47,52937.47,Sinaloa,Metropolitana,1,2025-03-19,Medio,0.05
+EMP_0350,56,51227.85,Yucatán,Oeste,0,2024-05-06,Medio,0.15
+EMP_0351,46,41835.69,Guerrero,Norte,1,2024-08-22,Alto,0.01
+EMP_0352,45,32364.55,Nayarit,Norte,3,2024-04-30,Alto,0.01
+EMP_0353,34,44398.85,Hidalgo,Centro,3,2024-08-13,Medio,0.05
+EMP_0354,28,72282.12,Aguascalientes,Norte,3,2024-04-21,Medio,0.2
+EMP_0355,57,99331.55,Hidalgo,Metropolitana,4,2024-05-22,Bajo,0.2
+EMP_0356,41,18721.62,Sonora,Norte,4,2024-04-28,Medio,0.2
+EMP_0357,22,30712.71,Oaxaca,Este,3,2025-02-22,Bajo,0.55
+EMP_0358,29,29950.18,Campeche,Oeste,4,2025-01-23,Bajo,0.6
+EMP_0359,37,69606.12,Tamaulipas,Este,3,2025-03-09,Alto,0.01
+EMP_0360,35,13460.06,Nayarit,Metropolitana,5,2025-02-06,Medio,0.3
+EMP_0361,33,44602.0,Tamaulipas,Norte,4,2024-12-06,Alto,0.01
+EMP_0362,44,32770.23,Nuevo León,Metropolitana,1,2024-11-10,Bajo,0.55
+EMP_0363,36,69929.66,Nuevo León,Centro,1,2024-08-12,Bajo,0.4
+EMP_0364,49,66198.66,Campeche,Este,1,2024-12-24,Bajo,0.3
+EMP_0365,55,42032.68,Chihuahua,Este,2,2024-10-28,Bajo,0.2
+EMP_0366,23,19304.83,Zacatecas,Sur,2,2024-11-23,Bajo,0.6
+EMP_0367,53,28866.71,Colima,Norte,4,2024-04-23,Bajo,0.35
+EMP_0368,44,30159.15,Zacatecas,Centro,2,2024-09-29,Bajo,0.45
+EMP_0369,43,21363.05,Nayarit,Este,3,2024-12-26,Bajo,0.45
+EMP_0370,46,57632.03,Chiapas,Este,4,2025-01-25,Bajo,0.25
+EMP_0371,43,20305.14,Campeche,Centro,4,2024-11-04,Medio,0.2
+EMP_0372,43,79708.46,Coahuila,Metropolitana,4,2025-03-26,Bajo,0.3
+EMP_0373,63,79628.64,Veracruz,Metropolitana,5,2024-12-08,Medio,0.01
+EMP_0374,27,31131.51,Jalisco,Norte,3,2024-09-21,Medio,0.45
+EMP_0375,36,41414.99,Jalisco,Sur,6,2025-03-16,Bajo,0.3
+EMP_0376,64,35280.53,Guanajuato,Este,2,2024-09-19,Alto,0.01
+EMP_0377,58,52090.09,Chiapas,Sur,4,2024-07-08,Medio,0.01
+EMP_0378,54,60468.08,Morelos,Metropolitana,3,2024-11-14,Medio,0.01
+EMP_0379,29,40263.43,Chiapas,Metropolitana,2,2024-08-17,Bajo,0.4
+EMP_0380,26,43811.28,Tabasco,Oeste,5,2024-07-22,Medio,0.2
+EMP_0381,60,28332.31,Hidalgo,Norte,2,2024-10-14,Alto,0.01
+EMP_0382,25,43247.11,Hidalgo,Oeste,1,2024-12-30,Bajo,0.45
+EMP_0383,27,38758.48,Michoacán,Oeste,2,2024-08-21,Bajo,0.45
+EMP_0384,53,25217.22,México,Oeste,2,2024-10-23,Bajo,0.45
+EMP_0385,51,36112.17,Zacatecas,Norte,6,2024-11-07,Medio,0.01
+EMP_0386,56,31154.91,Nayarit,Norte,2,2024-10-24,Bajo,0.35
+EMP_0387,61,28458.49,Baja California Sur,Centro,3,2024-06-07,Medio,0.1
+EMP_0388,37,22957.58,Oaxaca,Sur,3,2024-11-08,Bajo,0.4
+EMP_0389,34,37234.87,Chiapas,Sur,4,2024-07-30,Alto,0.01
+EMP_0390,63,26577.24,Aguascalientes,Centro,2,2024-11-01,Bajo,0.35
+EMP_0391,51,30078.22,Zacatecas,Centro,2,2024-11-18,Bajo,0.35
+EMP_0392,40,55829.05,Sinaloa,Metropolitana,3,2024-11-11,Medio,0.05
+EMP_0393,38,46762.95,Zacatecas,Oeste,4,2025-03-07,Bajo,0.3
+EMP_0394,40,24550.64,Michoacán,Centro,5,2024-12-04,Bajo,0.45
+EMP_0395,49,41804.38,Nayarit,Este,6,2024-04-21,Bajo,0.2
+EMP_0396,47,38296.44,Chihuahua,Sur,0,2024-08-02,Medio,0.25
+EMP_0397,58,71731.01,Colima,Centro,3,2024-09-18,Alto,0.01
+EMP_0398,47,63149.36,Tabasco,Este,2,2025-01-09,Alto,0.01
+EMP_0399,44,19663.13,Hidalgo,Este,5,2024-05-01,Bajo,0.45
+EMP_0400,30,51248.98,Tabasco,Este,4,2024-05-22,Bajo,0.3
+EMP_0401,33,60239.22,Quintana Roo,Metropolitana,1,2024-10-25,Medio,0.05
+EMP_0402,22,45421.63,Chihuahua,Metropolitana,1,2024-08-07,Medio,0.2
+EMP_0403,22,31755.94,Morelos,Este,2,2024-10-06,Bajo,0.6
+EMP_0404,55,95354.57,Querétaro,Metropolitana,2,2024-09-27,Bajo,0.2
+EMP_0405,53,47125.23,Colima,Oeste,2,2024-09-05,Bajo,0.2
+EMP_0406,46,80066.89,Tabasco,Este,3,2025-03-21,Medio,0.05
+EMP_0407,61,62354.52,Nayarit,Oeste,0,2024-08-13,Bajo,0.4
+EMP_0408,22,43724.06,Chihuahua,Oeste,0,2024-05-25,Alto,0.2
+EMP_0409,37,28799.68,Oaxaca,Este,3,2024-12-07,Bajo,0.4
+EMP_0410,60,35967.03,Zacatecas,Sur,2,2025-01-11,Bajo,0.2
+EMP_0411,26,33230.89,Chiapas,Este,5,2024-06-18,Bajo,0.55
+EMP_0412,43,22341.3,Tabasco,Este,4,2024-12-02,Bajo,0.45
+EMP_0413,50,47103.97,Coahuila,Metropolitana,1,2025-02-18,Bajo,0.3
+EMP_0414,24,67978.12,Sonora,Este,4,2024-11-07,Bajo,0.45
+EMP_0415,33,32230.83,San Luis Potosí,Sur,6,2025-03-16,Bajo,0.35
+EMP_0416,47,86289.45,Guanajuato,Metropolitana,2,2024-09-15,Bajo,0.3
+EMP_0417,37,19476.56,Guerrero,Norte,1,2024-11-11,Bajo,0.4
+EMP_0418,58,55367.35,Sonora,Norte,4,2024-06-25,Alto,0.01
+EMP_0419,43,70870.4,Michoacán,Oeste,6,2024-09-04,Medio,0.01
+EMP_0420,50,33469.43,San Luis Potosí,Oeste,2,2024-12-20,Medio,0.2
+EMP_0421,35,33710.93,Chiapas,Sur,5,2024-11-07,Bajo,0.4
+EMP_0422,49,55111.08,Tamaulipas,Centro,2,2024-07-29,Bajo,0.3
+EMP_0423,26,44462.28,San Luis Potosí,Norte,1,2024-08-06,Bajo,0.45
+EMP_0424,51,16334.51,Veracruz,Oeste,1,2024-12-13,Medio,0.1
+EMP_0425,26,25916.91,Chiapas,Norte,1,2024-06-19,Bajo,0.55
+EMP_0426,33,36119.21,Oaxaca,Sur,1,2024-07-25,Bajo,0.25
+EMP_0427,37,20996.7,Oaxaca,Sur,2,2025-02-24,Medio,0.15
+EMP_0428,47,30041.36,Guerrero,Centro,2,2024-05-20,Bajo,0.4
+EMP_0429,47,21207.83,Michoacán,Centro,1,2024-06-21,Bajo,0.45
+EMP_0430,42,31317.48,Baja California,Metropolitana,1,2024-04-17,Bajo,0.45
+EMP_0431,60,31740.57,Sinaloa,Sur,3,2025-01-27,Medio,0.1
+EMP_0432,57,41802.1,Nuevo León,Oeste,3,2024-12-08,Medio,0.05
+EMP_0433,54,35006.75,Baja California,Norte,1,2024-09-29,Bajo,0.2
+EMP_0434,51,44405.38,Quintana Roo,Este,3,2024-09-05,Bajo,0.2
+EMP_0435,58,42337.04,Michoacán,Centro,4,2025-01-13,Medio,0.01
+EMP_0436,44,54859.79,Baja California,Este,3,2025-04-06,Bajo,0.3
+EMP_0437,31,51509.07,Zacatecas,Oeste,3,2025-03-13,Medio,0.05
+EMP_0438,26,49377.47,Yucatán,Centro,5,2024-05-29,Medio,0.2
+EMP_0439,57,125736.91,Morelos,Este,2,2024-07-19,Bajo,0.2
+EMP_0440,55,41729.39,Baja California Sur,Oeste,1,2024-10-05,Bajo,0.2
+EMP_0441,52,102480.58,Sinaloa,Norte,1,2024-04-30,Medio,0.01
+EMP_0442,31,42825.43,Morelos,Oeste,3,2024-11-02,Bajo,0.3
+EMP_0443,40,35131.72,Guanajuato,Metropolitana,2,2025-02-12,Bajo,0.3
+EMP_0444,53,31279.99,Morelos,Centro,6,2024-07-24,Medio,0.01
+EMP_0445,22,66429.09,Nayarit,Sur,0,2024-07-03,Bajo,0.65
+EMP_0446,26,69996.56,Nuevo León,Norte,3,2025-01-09,Bajo,0.55
+EMP_0447,25,46162.06,México,Este,4,2025-03-04,Bajo,0.55
+EMP_0448,37,57149.09,Oaxaca,Centro,5,2024-11-16,Medio,0.01
+EMP_0449,45,21787.94,Veracruz,Sur,1,2024-09-22,Bajo,0.45
+EMP_0450,37,19545.26,Hidalgo,Oeste,2,2024-07-21,Alto,0.01
+EMP_0451,23,59786.24,San Luis Potosí,Sur,2,2025-04-12,Medio,0.2
+EMP_0452,49,34519.35,Tlaxcala,Centro,2,2024-10-18,Bajo,0.45
+EMP_0453,53,49007.12,Michoacán,Centro,4,2024-10-02,Bajo,0.2
+EMP_0454,48,27257.52,México,Metropolitana,3,2024-05-13,Bajo,0.55
+EMP_0455,41,70459.64,Oaxaca,Metropolitana,2,2024-09-30,Medio,0.01
+EMP_0456,45,19610.74,Oaxaca,Sur,1,2024-05-06,Alto,0.01
+EMP_0457,33,20863.7,Tabasco,Oeste,2,2024-08-08,Medio,0.2
+EMP_0458,56,64713.47,Michoacán,Sur,4,2024-09-14,Bajo,0.2
+EMP_0459,54,12785.45,Zacatecas,Centro,3,2024-11-12,Medio,0.2
+EMP_0460,54,42252.87,Baja California,Centro,4,2024-11-07,Bajo,0.2
+EMP_0461,64,34789.45,Aguascalientes,Este,2,2024-04-17,Medio,0.1
+EMP_0462,58,27054.79,Puebla,Metropolitana,3,2024-11-26,Medio,0.1
+EMP_0463,33,33524.24,Guanajuato,Este,0,2024-09-05,Bajo,0.65
+EMP_0464,24,25873.92,Colima,Norte,3,2024-07-15,Bajo,0.6
+EMP_0465,22,67299.12,Guanajuato,Centro,3,2024-11-11,Medio,0.2
+EMP_0466,54,74742.1,Colima,Este,3,2024-08-08,Medio,0.01
+EMP_0467,61,27603.7,Aguascalientes,Sur,1,2024-07-09,Bajo,0.35
+EMP_0468,31,40546.71,Zacatecas,Metropolitana,3,2024-06-14,Bajo,0.3
+EMP_0469,64,21374.83,Coahuila,Metropolitana,1,2024-07-12,Medio,0.1
+EMP_0470,50,55782.8,San Luis Potosí,Oeste,4,2025-04-12,Bajo,0.3
+EMP_0471,34,55204.72,Sinaloa,Sur,0,2025-01-16,Bajo,0.5
+EMP_0472,33,32270.06,Veracruz,Oeste,4,2024-07-01,Bajo,0.45
+EMP_0473,52,36561.61,Aguascalientes,Este,3,2024-12-05,Bajo,0.2
+EMP_0474,23,34978.67,Tlaxcala,Norte,2,2025-01-26,Medio,0.35
+EMP_0475,56,19008.03,Nayarit,Sur,2,2024-07-28,Alto,0.01
+EMP_0476,44,67400.09,Puebla,Sur,4,2024-08-16,Medio,0.05
+EMP_0477,38,26721.36,Puebla,Sur,3,2024-11-24,Bajo,0.45
+EMP_0478,47,26794.19,Tabasco,Oeste,3,2024-08-29,Medio,0.2
+EMP_0479,29,34194.91,Guerrero,Este,3,2024-11-02,Bajo,0.55
+EMP_0480,50,54079.99,San Luis Potosí,Sur,7,2024-08-21,Bajo,0.2
+EMP_0481,47,28666.33,Nayarit,Sur,6,2024-12-07,Alto,0.01
+EMP_0482,31,16632.7,Sonora,Metropolitana,2,2024-09-26,Bajo,0.45
+EMP_0483,47,25468.58,Zacatecas,Norte,0,2025-03-14,Alto,0.2
+EMP_0484,55,43030.14,Coahuila,Metropolitana,3,2024-11-27,Bajo,0.2
+EMP_0485,62,87194.81,Zacatecas,Metropolitana,4,2025-03-24,Medio,0.01
+EMP_0486,28,21939.24,Baja California Sur,Norte,1,2024-08-23,Bajo,0.6
+EMP_0487,25,21620.54,Aguascalientes,Este,1,2024-09-24,Bajo,0.6
+EMP_0488,32,19830.21,Baja California,Metropolitana,6,2024-07-09,Bajo,0.35
+EMP_0489,50,18869.65,Guerrero,Este,8,2024-12-04,Alto,0.01
+EMP_0490,57,58822.32,Puebla,Metropolitana,1,2024-11-17,Medio,0.01
+EMP_0491,46,66030.72,Baja California Sur,Centro,2,2025-03-16,Alto,0.01
+EMP_0492,42,38991.63,Aguascalientes,Norte,4,2024-04-18,Medio,0.05
+EMP_0493,57,30119.1,Yucatán,Metropolitana,4,2024-06-10,Alto,0.01
+EMP_0494,31,74343.95,Tabasco,Centro,4,2024-11-03,Bajo,0.3
+EMP_0495,58,38931.67,Tabasco,Oeste,2,2024-04-22,Bajo,0.2
+EMP_0496,30,56149.59,Tlaxcala,Centro,5,2024-05-09,Medio,0.05
+EMP_0497,45,29537.63,Quintana Roo,Sur,5,2025-02-12,Medio,0.2
+EMP_0498,56,36963.92,Campeche,Metropolitana,2,2024-12-10,Medio,0.01
+EMP_0499,56,22138.28,Jalisco,Centro,2,2025-02-02,Bajo,0.45
+EMP_0500,57,46709.35,San Luis Potosí,Este,6,2024-05-23,Bajo,0.1
+EMP_0501,39,39197.77,Durango,Oeste,7,2024-04-15,Alto,0.01
+EMP_0502,60,25391.63,Quintana Roo,Metropolitana,2,2024-08-14,Medio,0.1
+EMP_0503,53,25528.66,Aguascalientes,Sur,3,2024-08-08,Bajo,0.35
+EMP_0504,45,69312.7,Guanajuato,Centro,2,2024-09-05,Medio,0.05
+EMP_0505,44,79910.9,Nuevo León,Oeste,6,2025-03-24,Alto,0.01
+EMP_0506,53,33347.76,Puebla,Metropolitana,1,2025-01-22,Bajo,0.35
+EMP_0507,58,37313.16,Nuevo León,Oeste,4,2024-05-05,Alto,0.01
+EMP_0508,33,42618.59,Quintana Roo,Sur,1,2025-04-04,Alto,0.01
+EMP_0509,34,38530.78,Aguascalientes,Centro,1,2025-04-02,Alto,0.01
+EMP_0510,44,18588.18,Campeche,Oeste,3,2024-07-25,Alto,0.01
+EMP_0511,46,43094.4,Tamaulipas,Oeste,4,2024-11-20,Medio,0.05
+EMP_0512,56,15753.92,Quintana Roo,Norte,5,2024-10-04,Bajo,0.35
+EMP_0513,62,27090.17,Campeche,Oeste,2,2024-08-07,Bajo,0.35
+EMP_0514,51,44452.25,Tamaulipas,Norte,4,2024-12-21,Bajo,0.2
+EMP_0515,38,46165.94,Colima,Centro,3,2025-03-19,Bajo,0.3
+EMP_0516,41,26264.43,Michoacán,Metropolitana,3,2024-07-17,Bajo,0.45
+EMP_0517,46,30231.06,Chiapas,Metropolitana,1,2025-03-12,Bajo,0.4
+EMP_0518,43,28637.3,San Luis Potosí,Centro,4,2025-02-11,Bajo,0.45
+EMP_0519,34,34851.88,Querétaro,Centro,1,2024-08-28,Bajo,0.45
+EMP_0520,40,35928.36,Coahuila,Este,4,2024-06-15,Alto,0.01
+EMP_0521,57,47447.89,Tamaulipas,Centro,1,2025-01-09,Bajo,0.2
+EMP_0522,33,29532.34,Jalisco,Oeste,1,2025-03-10,Medio,0.3
+EMP_0523,62,42165.54,Guanajuato,Metropolitana,2,2024-10-03,Medio,0.01
+EMP_0524,40,44480.51,Chiapas,Sur,0,2025-01-28,Bajo,0.45
+EMP_0525,33,39313.21,Durango,Metropolitana,1,2024-08-08,Alto,0.01
+EMP_0526,30,32733.61,Aguascalientes,Norte,2,2025-01-21,Medio,0.2
+EMP_0527,28,39036.73,Oaxaca,Metropolitana,2,2025-03-20,Bajo,0.4
+EMP_0528,49,49054.94,Tamaulipas,Este,0,2025-02-16,Bajo,0.5
+EMP_0529,35,50801.13,Nuevo León,Centro,3,2025-03-13,Bajo,0.4
+EMP_0530,52,75067.96,Coahuila,Centro,3,2024-05-30,Bajo,0.2
+EMP_0531,40,24440.32,Baja California,Metropolitana,3,2025-04-02,Bajo,0.45
+EMP_0532,37,30454.74,Coahuila,Sur,1,2024-05-30,Medio,0.2
+EMP_0533,26,19046.0,Jalisco,Sur,1,2024-05-16,Alto,0.25
+EMP_0534,56,52701.74,Sinaloa,Este,6,2025-01-12,Medio,0.01
+EMP_0535,33,31767.44,Chihuahua,Norte,0,2025-04-13,Bajo,0.65
+EMP_0536,46,39437.66,San Luis Potosí,Metropolitana,2,2024-05-23,Bajo,0.3
+EMP_0537,42,28517.25,Tamaulipas,Centro,4,2024-11-29,Bajo,0.45
+EMP_0538,57,31866.75,Michoacán,Metropolitana,5,2024-09-30,Bajo,0.35
+EMP_0539,44,59235.48,Tabasco,Este,3,2024-12-02,Bajo,0.3
+EMP_0540,37,47939.42,Nuevo León,Oeste,2,2025-01-18,Alto,0.01
+EMP_0541,60,34731.11,Puebla,Oeste,2,2024-06-23,Bajo,0.35
+EMP_0542,63,49371.35,Nayarit,Este,4,2024-07-09,Alto,0.01
+EMP_0543,60,49809.45,Michoacán,Centro,4,2024-05-25,Bajo,0.2
+EMP_0544,35,31052.35,Colima,Este,1,2024-10-16,Alto,0.01
+EMP_0545,52,20178.4,Guanajuato,Centro,5,2025-04-10,Medio,0.1
+EMP_0546,26,25344.96,Durango,Sur,1,2024-12-09,Medio,0.35
+EMP_0547,56,21243.12,Nuevo León,Este,4,2024-10-21,Bajo,0.45
+EMP_0548,44,57859.55,Campeche,Centro,2,2024-08-06,Alto,0.01
+EMP_0549,50,62022.1,Veracruz,Este,5,2025-03-24,Alto,0.01
+EMP_0550,64,68497.3,San Luis Potosí,Este,2,2024-12-30,Medio,0.01
+EMP_0551,32,16190.47,Jalisco,Centro,6,2025-02-07,Medio,0.2
+EMP_0552,39,55745.97,Chiapas,Centro,2,2024-07-25,Medio,0.01
+EMP_0553,33,87981.03,Tlaxcala,Norte,1,2025-02-24,Bajo,0.3
+EMP_0554,30,56658.37,Tabasco,Este,3,2025-03-29,Medio,0.05
+EMP_0555,31,15359.79,San Luis Potosí,Oeste,4,2024-11-20,Alto,0.01
+EMP_0556,38,73667.67,Durango,Este,3,2024-05-09,Bajo,0.3
+EMP_0557,59,36926.16,Jalisco,Este,5,2024-08-07,Bajo,0.3
+EMP_0558,28,33091.79,Campeche,Centro,4,2024-05-06,Bajo,0.6
+EMP_0559,34,43496.6,Chihuahua,Este,3,2024-04-25,Medio,0.05
+EMP_0560,61,23870.47,Sonora,Metropolitana,1,2025-01-29,Bajo,0.35
+EMP_0561,63,36355.94,San Luis Potosí,Este,3,2024-06-28,Bajo,0.2
+EMP_0562,30,69436.77,Oaxaca,Metropolitana,1,2024-07-06,Bajo,0.25
+EMP_0563,48,46581.5,Tlaxcala,Oeste,1,2025-02-07,Medio,0.05
+EMP_0564,23,37173.84,Oaxaca,Centro,4,2024-12-10,Bajo,0.4
+EMP_0565,26,37640.78,Michoacán,Este,3,2024-05-30,Medio,0.2
+EMP_0566,50,22639.3,Guerrero,Metropolitana,3,2025-01-17,Bajo,0.4
+EMP_0567,58,34200.82,Yucatán,Metropolitana,2,2025-03-04,Medio,0.1
+EMP_0568,59,18888.0,Baja California Sur,Metropolitana,6,2024-10-10,Alto,0.01
+EMP_0569,40,54664.86,Veracruz,Sur,3,2024-04-25,Bajo,0.3
+EMP_0570,29,15149.39,Tabasco,Norte,1,2024-05-14,Bajo,0.6
+EMP_0571,22,51121.49,Chiapas,Oeste,4,2024-07-22,Alto,0.01
+EMP_0572,43,53732.02,Nuevo León,Este,0,2024-07-17,Bajo,0.6
+EMP_0573,38,61543.89,Tamaulipas,Sur,5,2025-03-03,Bajo,0.3
+EMP_0574,28,37599.41,Nuevo León,Este,5,2025-01-11,Alto,0.1
+EMP_0575,46,52399.45,Veracruz,Este,1,2024-10-11,Alto,0.01
+EMP_0576,25,34067.58,Yucatán,Centro,1,2024-09-11,Medio,0.35
+EMP_0577,57,22591.32,México,Centro,2,2025-03-28,Bajo,0.45
+EMP_0578,27,66989.62,Hidalgo,Centro,4,2024-07-23,Bajo,0.45
+EMP_0579,52,34935.04,Yucatán,Sur,3,2024-12-21,Bajo,0.35
+EMP_0580,40,20664.97,Querétaro,Este,4,2024-06-26,Medio,0.2
+EMP_0581,60,30129.92,Campeche,Norte,4,2024-06-26,Medio,0.1
+EMP_0582,48,30609.64,Baja California,Oeste,3,2025-02-25,Alto,0.01
+EMP_0583,31,43681.45,Nuevo León,Centro,1,2024-06-11,Bajo,0.4
+EMP_0584,47,92857.28,Veracruz,Centro,3,2025-01-07,Medio,0.05
+EMP_0585,40,44755.4,Tamaulipas,Este,2,2025-01-09,Bajo,0.3
+EMP_0586,60,39447.96,Querétaro,Este,3,2024-05-23,Bajo,0.2
+EMP_0587,24,96984.89,Chiapas,Sur,4,2025-01-30,Medio,0.15
+EMP_0588,34,53720.9,Colima,Sur,4,2024-05-13,Bajo,0.3
+EMP_0589,49,40203.11,Tlaxcala,Centro,4,2025-02-05,Medio,0.05
+EMP_0590,41,29978.49,Chihuahua,Este,0,2024-08-11,Medio,0.4
+EMP_0591,49,41211.81,Durango,Norte,0,2025-01-27,Alto,0.05
+EMP_0592,29,35363.8,Chiapas,Oeste,7,2024-09-18,Medio,0.05
+EMP_0593,62,37668.28,Querétaro,Este,3,2024-08-03,Alto,0.01
+EMP_0594,60,61436.6,Yucatán,Este,4,2024-09-05,Medio,0.01
+EMP_0595,22,29256.91,Durango,Metropolitana,4,2024-07-26,Bajo,0.6
+EMP_0596,24,44596.75,Michoacán,Sur,3,2024-05-18,Bajo,0.45
+EMP_0597,34,53081.09,Puebla,Oeste,5,2024-05-05,Medio,0.05
+EMP_0598,49,27865.79,Zacatecas,Centro,1,2024-07-29,Medio,0.2
+EMP_0599,46,26132.93,Campeche,Este,4,2024-06-10,Medio,0.2
+EMP_0600,54,34195.98,Morelos,Centro,1,2025-01-30,Bajo,0.35
+EMP_0601,59,30192.48,Hidalgo,Este,4,2024-12-10,Bajo,0.35
+EMP_0602,27,57580.14,Tamaulipas,Centro,4,2024-10-08,Bajo,0.45
+EMP_0603,53,24325.8,Michoacán,Oeste,1,2024-08-03,Medio,0.1
+EMP_0604,42,37323.88,Campeche,Sur,2,2024-05-28,Medio,0.05
+EMP_0605,37,100550.9,Puebla,Oeste,3,2024-06-10,Medio,0.05
+EMP_0606,42,42839.79,Sinaloa,Metropolitana,2,2024-08-22,Bajo,0.3
+EMP_0607,32,45785.19,Aguascalientes,Norte,4,2024-08-07,Bajo,0.3
+EMP_0608,58,57772.78,Tamaulipas,Sur,2,2024-05-17,Medio,0.01
+EMP_0609,57,30176.55,Chihuahua,Oeste,8,2024-05-04,Medio,0.01
+EMP_0610,56,23562.98,Nuevo León,Metropolitana,4,2025-02-01,Bajo,0.45
+EMP_0611,40,38972.23,Jalisco,Norte,4,2024-08-22,Medio,0.15
+EMP_0612,41,40382.89,San Luis Potosí,Metropolitana,1,2024-05-25,Bajo,0.3
+EMP_0613,39,19009.91,Hidalgo,Este,3,2024-11-09,Medio,0.2
+EMP_0614,62,42193.81,Tamaulipas,Este,3,2024-12-20,Alto,0.01
+EMP_0615,35,55711.41,San Luis Potosí,Centro,3,2024-06-05,Medio,0.05
+EMP_0616,36,25205.58,Querétaro,Sur,7,2024-08-29,Medio,0.1
+EMP_0617,52,43227.08,Sonora,Este,3,2024-05-27,Bajo,0.2
+EMP_0618,22,51891.25,Sinaloa,Metropolitana,2,2024-05-03,Medio,0.2
+EMP_0619,24,45920.7,Baja California,Sur,1,2024-08-12,Medio,0.2
+EMP_0620,37,47686.45,Jalisco,Este,3,2024-06-12,Medio,0.15
+EMP_0621,44,32928.04,Veracruz,Centro,3,2025-03-31,Medio,0.2
+EMP_0622,32,23132.6,Campeche,Oeste,0,2025-03-29,Bajo,0.65
+EMP_0623,33,30367.9,San Luis Potosí,Centro,3,2025-03-03,Alto,0.01
+EMP_0624,31,28726.55,Zacatecas,Norte,5,2024-12-25,Medio,0.2
+EMP_0625,53,35168.16,Baja California,Este,4,2024-07-10,Bajo,0.2
+EMP_0626,37,56235.77,Quintana Roo,Norte,4,2024-05-25,Medio,0.05
+EMP_0627,29,21488.3,Michoacán,Norte,5,2025-03-26,Bajo,0.6
+EMP_0628,59,38472.54,Nuevo León,Metropolitana,2,2025-02-07,Bajo,0.3
+EMP_0629,33,23733.42,Baja California Sur,Sur,3,2024-10-29,Bajo,0.45
+EMP_0630,45,27010.51,Baja California,Metropolitana,3,2025-01-31,Medio,0.2
+EMP_0631,49,45410.39,Querétaro,Este,4,2024-06-08,Alto,0.01
+EMP_0632,29,22561.99,Tabasco,Norte,1,2024-12-23,Medio,0.35
+EMP_0633,49,48712.83,Sonora,Oeste,2,2024-07-14,Medio,0.05
+EMP_0634,57,21144.48,Nayarit,Norte,3,2025-01-19,Bajo,0.35
+EMP_0635,47,47419.66,Campeche,Oeste,2,2024-11-26,Bajo,0.3
+EMP_0636,29,19539.39,Quintana Roo,Metropolitana,3,2025-03-06,Bajo,0.6
+EMP_0637,49,28363.97,Colima,Metropolitana,5,2024-12-30,Medio,0.2
+EMP_0638,49,77543.76,Veracruz,Sur,1,2024-05-25,Alto,0.01
+EMP_0639,58,71927.83,Tabasco,Norte,1,2024-07-07,Bajo,0.2
+EMP_0640,62,30791.38,Quintana Roo,Centro,1,2024-12-12,Medio,0.1
+EMP_0641,57,42445.84,Yucatán,Metropolitana,1,2024-09-08,Alto,0.01
+EMP_0642,48,58784.13,Aguascalientes,Metropolitana,1,2025-02-12,Bajo,0.3
+EMP_0643,38,47691.98,San Luis Potosí,Sur,1,2025-01-04,Medio,0.05
+EMP_0644,30,32552.66,Guerrero,Oeste,3,2024-06-11,Medio,0.15
+EMP_0645,54,26917.88,Veracruz,Sur,2,2024-04-25,Medio,0.1
+EMP_0646,41,51392.18,Durango,Norte,5,2024-09-22,Bajo,0.3
+EMP_0647,34,57084.12,San Luis Potosí,Este,5,2024-07-30,Medio,0.05
+EMP_0648,49,72134.0,Tlaxcala,Este,2,2025-04-09,Medio,0.05
+EMP_0649,50,18492.12,Baja California,Oeste,2,2024-09-29,Bajo,0.45
+EMP_0650,34,21998.95,Jalisco,Metropolitana,4,2024-10-16,Medio,0.3
+EMP_0651,56,57801.47,Sinaloa,Oeste,0,2024-05-07,Bajo,0.4
+EMP_0652,27,19523.77,Michoacán,Metropolitana,2,2024-12-02,Alto,0.15
+EMP_0653,39,59600.54,Durango,Metropolitana,3,2024-05-25,Medio,0.05
+EMP_0654,26,33323.8,Coahuila,Este,3,2024-08-04,Alto,0.15
+EMP_0655,46,29484.93,Chiapas,Oeste,3,2024-07-23,Bajo,0.4
+EMP_0656,23,39425.63,Tamaulipas,Sur,1,2025-01-11,Bajo,0.45
+EMP_0657,31,21202.04,Nuevo León,Metropolitana,3,2024-11-15,Bajo,0.55
+EMP_0658,51,50493.8,Baja California Sur,Centro,1,2024-11-27,Bajo,0.2
+EMP_0659,26,71385.84,Hidalgo,Centro,2,2024-09-18,Bajo,0.45
+EMP_0660,54,51443.04,Hidalgo,Sur,2,2024-12-10,Medio,0.01
+EMP_0661,22,32905.55,Chihuahua,Centro,1,2024-08-23,Bajo,0.6
+EMP_0662,39,19629.44,México,Norte,6,2025-02-12,Medio,0.2
+EMP_0663,53,19933.66,Guerrero,Metropolitana,2,2024-06-11,Bajo,0.3
+EMP_0664,32,21335.82,Guerrero,Sur,7,2024-07-22,Medio,0.05
+EMP_0665,42,36137.58,San Luis Potosí,Oeste,8,2024-12-01,Medio,0.01
+EMP_0666,47,38000.71,Coahuila,Metropolitana,2,2024-05-31,Medio,0.05
+EMP_0667,46,51399.18,Puebla,Sur,2,2024-12-22,Alto,0.01
+EMP_0668,43,17704.75,Nuevo León,Este,6,2024-10-05,Bajo,0.45
+EMP_0669,48,61358.2,Nuevo León,Oeste,3,2024-10-09,Bajo,0.4
+EMP_0670,34,47942.73,Querétaro,Este,1,2024-05-30,Bajo,0.3
+EMP_0671,54,31865.06,Nayarit,Metropolitana,3,2025-01-15,Bajo,0.35
+EMP_0672,55,22563.65,Tlaxcala,Oeste,0,2024-10-09,Medio,0.3
+EMP_0673,62,59853.56,Querétaro,Centro,6,2024-06-11,Bajo,0.1
+EMP_0674,56,32207.75,Nayarit,Sur,2,2024-12-03,Medio,0.1
+EMP_0675,22,36025.87,Tabasco,Metropolitana,1,2024-04-19,Bajo,0.45
+EMP_0676,42,42338.19,Oaxaca,Norte,3,2024-12-12,Alto,0.01
+EMP_0677,27,25203.05,Guanajuato,Oeste,3,2025-02-25,Alto,0.15
+EMP_0678,49,32439.36,Coahuila,Oeste,5,2024-06-30,Bajo,0.45
+EMP_0679,38,51334.93,Chiapas,Metropolitana,1,2024-10-17,Bajo,0.25
+EMP_0680,26,49297.98,Tlaxcala,Metropolitana,2,2024-10-16,Alto,0.01
+EMP_0681,52,49476.0,San Luis Potosí,Este,3,2025-01-05,Alto,0.01
+EMP_0682,26,22877.93,Yucatán,Centro,6,2024-05-19,Bajo,0.5
+EMP_0683,59,33036.49,Oaxaca,Este,2,2025-03-11,Bajo,0.3
+EMP_0684,24,30990.7,Michoacán,Este,3,2025-02-03,Alto,0.15
+EMP_0685,44,43048.02,Baja California,Centro,4,2024-10-25,Medio,0.05
+EMP_0686,58,41533.82,Querétaro,Norte,5,2024-07-16,Bajo,0.2
+EMP_0687,58,38644.93,Oaxaca,Este,1,2025-02-14,Medio,0.01
+EMP_0688,31,97371.96,Zacatecas,Este,4,2024-10-15,Alto,0.01
+EMP_0689,31,32327.63,Colima,Oeste,4,2025-03-26,Alto,0.01
+EMP_0690,40,30849.34,Nayarit,Centro,1,2024-08-31,Medio,0.2
+EMP_0691,38,22863.57,Querétaro,Sur,6,2025-01-09,Medio,0.1
+EMP_0692,42,19630.92,Puebla,Norte,5,2024-06-21,Bajo,0.45
+EMP_0693,35,22289.55,Nuevo León,Norte,5,2025-01-23,Alto,0.1
+EMP_0694,30,27242.33,Sonora,Centro,6,2024-10-21,Bajo,0.35
+EMP_0695,22,61330.3,Coahuila,Metropolitana,3,2024-09-04,Alto,0.01
+EMP_0696,34,36888.88,San Luis Potosí,Metropolitana,1,2025-01-01,Bajo,0.3
+EMP_0697,25,39235.31,Puebla,Oeste,1,2025-02-19,Alto,0.01
+EMP_0698,22,34943.6,Tlaxcala,Oeste,6,2024-10-13,Bajo,0.5
+EMP_0699,61,42029.22,Tamaulipas,Centro,2,2024-04-28,Medio,0.01
+EMP_0700,53,63629.27,Guanajuato,Oeste,4,2024-05-31,Bajo,0.2
+EMP_0701,55,16357.27,Durango,Norte,3,2024-04-24,Medio,0.1
+EMP_0702,49,59120.61,Zacatecas,Norte,7,2024-04-30,Alto,0.01
+EMP_0703,52,13279.6,Nayarit,Sur,2,2024-05-28,Medio,0.2
+EMP_0704,29,36727.5,Veracruz,Metropolitana,4,2025-02-05,Medio,0.2
+EMP_0705,60,87270.08,Chihuahua,Centro,0,2025-03-17,Bajo,0.4
+EMP_0706,47,47679.8,Puebla,Este,1,2024-07-14,Alto,0.01
+EMP_0707,55,42159.85,Tabasco,Metropolitana,2,2024-07-06,Medio,0.01
+EMP_0708,24,80884.57,Yucatán,Este,7,2024-04-19,Medio,0.1
+EMP_0709,33,27413.06,Guerrero,Sur,5,2024-06-07,Medio,0.15
+EMP_0710,22,43199.62,San Luis Potosí,Sur,3,2024-12-16,Medio,0.2
+EMP_0711,26,45763.72,Nayarit,Oeste,7,2024-12-01,Bajo,0.35
+EMP_0712,51,29467.38,Baja California,Sur,2,2024-12-06,Medio,0.1
+EMP_0713,51,30526.67,Quintana Roo,Sur,3,2025-04-06,Medio,0.1
+EMP_0714,38,29216.48,Quintana Roo,Este,1,2025-02-22,Alto,0.01
+EMP_0715,44,37606.27,Veracruz,Oeste,3,2024-05-08,Alto,0.01
+EMP_0716,36,45192.06,Morelos,Sur,3,2024-07-07,Bajo,0.3
+EMP_0717,58,38150.42,Colima,Metropolitana,4,2024-10-21,Bajo,0.2
+EMP_0718,42,48232.33,Baja California,Sur,3,2024-10-13,Bajo,0.3
+EMP_0719,35,16520.23,Jalisco,Oeste,4,2024-10-04,Bajo,0.55
+EMP_0720,23,33279.59,Guanajuato,Centro,2,2024-08-08,Medio,0.35
+EMP_0721,32,24116.04,Sinaloa,Oeste,4,2024-08-22,Alto,0.01
+EMP_0722,60,40973.84,Guerrero,Este,6,2025-01-21,Bajo,0.05
+EMP_0723,59,40731.91,Yucatán,Centro,3,2025-01-11,Bajo,0.2
+EMP_0724,55,34674.2,Yucatán,Metropolitana,4,2024-06-06,Alto,0.01
+EMP_0725,59,44538.6,Puebla,Norte,1,2024-07-20,Alto,0.01
+EMP_0726,55,54128.98,Veracruz,Oeste,6,2024-12-15,Medio,0.01
+EMP_0727,39,35446.93,Sinaloa,Este,4,2025-02-02,Medio,0.05
+EMP_0728,51,23844.81,Nayarit,Metropolitana,2,2025-03-28,Medio,0.1
+EMP_0729,36,19292.99,Chihuahua,Centro,0,2024-08-04,Bajo,0.65
+EMP_0730,48,36843.85,Michoacán,Metropolitana,2,2024-12-13,Bajo,0.3
+EMP_0731,55,40004.48,Nuevo León,Oeste,4,2025-04-04,Bajo,0.3
+EMP_0732,59,24641.58,Tamaulipas,Sur,3,2024-07-01,Bajo,0.35
+EMP_0733,54,48547.92,Michoacán,Oeste,4,2024-06-02,Alto,0.01
+EMP_0734,45,30224.78,Tlaxcala,Norte,4,2024-05-23,Medio,0.2
+EMP_0735,36,18721.48,Querétaro,Oeste,6,2024-07-15,Bajo,0.35
+EMP_0736,51,60028.49,Chiapas,Centro,3,2024-06-12,Bajo,0.15
+EMP_0737,63,57388.27,Zacatecas,Centro,2,2024-06-25,Bajo,0.2
+EMP_0738,38,16216.11,Nayarit,Oeste,5,2024-09-16,Medio,0.2
+EMP_0739,26,28997.35,Jalisco,Centro,5,2024-09-08,Alto,0.25
+EMP_0740,50,28548.7,Querétaro,Sur,4,2024-08-16,Bajo,0.45
+EMP_0741,25,69968.15,Campeche,Metropolitana,2,2024-09-26,Bajo,0.45
+EMP_0742,31,34901.42,Puebla,Oeste,1,2024-09-10,Medio,0.2
+EMP_0743,38,19963.26,Morelos,Sur,5,2024-09-21,Medio,0.2
+EMP_0744,31,51680.82,Jalisco,Metropolitana,6,2024-09-10,Bajo,0.3
+EMP_0745,38,22196.5,Yucatán,Metropolitana,1,2025-01-24,Medio,0.2
+EMP_0746,41,32723.99,Nayarit,Sur,6,2024-07-21,Medio,0.1
+EMP_0747,45,26691.29,Coahuila,Este,3,2025-03-10,Bajo,0.45
+EMP_0748,26,29022.25,Michoacán,Oeste,4,2024-06-29,Bajo,0.6
+EMP_0749,55,52833.63,Veracruz,Metropolitana,3,2025-03-27,Bajo,0.2
+EMP_0750,27,66738.15,Chihuahua,Metropolitana,3,2024-10-31,Alto,0.01
+EMP_0751,23,21812.81,Coahuila,Centro,4,2025-04-01,Alto,0.15
+EMP_0752,34,46650.11,Aguascalientes,Metropolitana,1,2024-09-24,Alto,0.01
+EMP_0753,64,27089.42,Aguascalientes,Sur,5,2024-08-28,Medio,0.1
+EMP_0754,64,27428.32,Tabasco,Metropolitana,2,2024-05-03,Medio,0.1
+EMP_0755,32,44190.03,San Luis Potosí,Este,4,2025-04-13,Medio,0.05
+EMP_0756,44,24072.83,Hidalgo,Oeste,5,2024-05-30,Alto,0.01
+EMP_0757,37,43837.33,Quintana Roo,Oeste,3,2024-09-09,Bajo,0.3
+EMP_0758,52,48632.4,Jalisco,Metropolitana,3,2025-03-11,Medio,0.05
+EMP_0759,32,30545.94,Yucatán,Norte,4,2024-04-20,Medio,0.2
+EMP_0760,37,61748.89,Yucatán,Norte,2,2024-07-22,Medio,0.05
+EMP_0761,29,21826.28,Jalisco,Sur,4,2024-12-07,Bajo,0.7
+EMP_0762,25,62203.25,Tamaulipas,Norte,0,2024-09-14,Medio,0.4
+EMP_0763,61,16687.33,Sinaloa,Sur,0,2024-07-25,Medio,0.3
+EMP_0764,25,106925.29,Guanajuato,Centro,4,2024-06-06,Bajo,0.45
+EMP_0765,46,30869.35,Colima,Sur,2,2025-01-24,Medio,0.2
+EMP_0766,24,22812.8,Michoacán,Norte,2,2024-10-31,Bajo,0.6
+EMP_0767,53,33088.17,Sonora,Metropolitana,1,2024-08-05,Alto,0.01
+EMP_0768,24,23894.63,Yucatán,Centro,2,2025-04-02,Medio,0.35
+EMP_0769,48,42395.02,Sinaloa,Norte,5,2024-06-14,Medio,0.05
+EMP_0770,50,62759.36,Tamaulipas,Sur,2,2024-09-14,Bajo,0.3
+EMP_0771,53,24406.81,Oaxaca,Este,3,2024-07-06,Bajo,0.3
+EMP_0772,40,45787.19,Tabasco,Oeste,0,2024-12-23,Medio,0.25
+EMP_0773,42,19671.1,Sonora,Norte,2,2024-09-15,Bajo,0.45
+EMP_0774,26,54895.24,Hidalgo,Sur,3,2024-08-18,Medio,0.2
+EMP_0775,39,42894.31,Nuevo León,Centro,4,2024-07-20,Bajo,0.4
+EMP_0776,49,55852.71,Sonora,Norte,6,2024-06-20,Alto,0.01
+EMP_0777,63,34581.05,Baja California,Norte,4,2024-06-01,Medio,0.1
+EMP_0778,43,30513.89,Tabasco,Oeste,3,2025-02-15,Bajo,0.45
+EMP_0779,42,50334.55,Chihuahua,Sur,2,2025-03-11,Medio,0.05
+EMP_0780,27,21520.92,Morelos,Este,5,2024-07-25,Alto,0.15
+EMP_0781,22,18085.58,Tabasco,Centro,3,2025-03-10,Medio,0.35
+EMP_0782,26,36243.5,Colima,Sur,3,2024-07-17,Bajo,0.45
+EMP_0783,62,31075.08,Colima,Centro,2,2024-08-30,Medio,0.1
+EMP_0784,33,45321.34,Jalisco,Norte,3,2025-03-20,Bajo,0.4
+EMP_0785,47,56197.11,Tlaxcala,Oeste,6,2024-08-23,Bajo,0.2
+EMP_0786,55,44945.49,Aguascalientes,Oeste,1,2025-02-14,Bajo,0.2
+EMP_0787,35,54434.93,Tlaxcala,Metropolitana,2,2024-08-06,Medio,0.05
+EMP_0788,47,41291.87,Chiapas,Este,2,2024-05-14,Bajo,0.25
+EMP_0789,48,44260.07,Zacatecas,Oeste,2,2025-01-18,Alto,0.01
+EMP_0790,30,34659.85,Yucatán,Norte,7,2024-08-06,Bajo,0.35
+EMP_0791,47,43740.0,Morelos,Este,1,2024-10-16,Bajo,0.3
+EMP_0792,43,38818.85,Morelos,Sur,3,2024-09-19,Bajo,0.3
+EMP_0793,51,41360.05,Michoacán,Oeste,8,2024-05-05,Bajo,0.1
+EMP_0794,64,33972.63,Puebla,Este,1,2024-11-16,Medio,0.1
+EMP_0795,38,50190.03,Baja California Sur,Norte,2,2025-02-02,Bajo,0.3
+EMP_0796,47,27332.15,Baja California,Metropolitana,4,2024-12-14,Bajo,0.45
+EMP_0797,57,36049.94,Baja California,Centro,1,2024-08-04,Bajo,0.2
+EMP_0798,22,61372.28,México,Centro,4,2025-01-11,Bajo,0.55
+EMP_0799,29,24847.47,Durango,Norte,4,2024-08-01,Bajo,0.6
+EMP_0800,56,15294.7,Puebla,Norte,4,2024-08-03,Medio,0.1
+EMP_0801,36,42048.66,Zacatecas,Centro,2,2024-04-27,Medio,0.05
+EMP_0802,43,32768.34,Hidalgo,Metropolitana,5,2024-06-30,Medio,0.2
+EMP_0803,35,54412.27,Nuevo León,Este,3,2024-06-09,Medio,0.15
+EMP_0804,47,34468.25,Jalisco,Centro,3,2025-02-14,Medio,0.3
+EMP_0805,49,28517.25,Tamaulipas,Norte,3,2025-02-04,Alto,0.01
+EMP_0806,44,35230.7,Tlaxcala,Oeste,2,2025-01-18,Bajo,0.3
+EMP_0807,35,56231.22,Tlaxcala,Sur,3,2024-07-14,Bajo,0.3
+EMP_0808,45,45713.45,Zacatecas,Metropolitana,0,2024-08-30,Bajo,0.5
+EMP_0809,23,13717.66,Aguascalientes,Metropolitana,1,2025-01-23,Bajo,0.7
+EMP_0810,47,39116.79,Tamaulipas,Oeste,1,2024-12-21,Bajo,0.3
+EMP_0811,35,39906.91,Sinaloa,Oeste,3,2024-10-12,Medio,0.05
+EMP_0812,28,36051.37,Colima,Norte,5,2024-07-08,Bajo,0.45
+EMP_0813,24,28442.62,Yucatán,Centro,1,2024-05-27,Alto,0.15
+EMP_0814,44,58560.33,Chiapas,Este,7,2024-05-31,Bajo,0.15
+EMP_0815,64,59731.43,Quintana Roo,Metropolitana,3,2025-02-19,Bajo,0.2
+EMP_0816,39,15044.02,Coahuila,Metropolitana,2,2024-09-29,Alto,0.01
+EMP_0817,59,26392.0,México,Oeste,6,2024-06-25,Alto,0.01
+EMP_0818,56,34272.81,San Luis Potosí,Centro,5,2024-06-25,Bajo,0.35
+EMP_0819,36,53071.92,Nuevo León,Metropolitana,4,2024-06-27,Medio,0.15
+EMP_0820,46,36825.33,México,Este,3,2024-10-16,Alto,0.01
+EMP_0821,58,27627.38,Guerrero,Oeste,1,2024-09-04,Bajo,0.3
+EMP_0822,49,48233.71,Tamaulipas,Este,4,2024-07-14,Bajo,0.3
+EMP_0823,31,33371.77,Chiapas,Centro,1,2024-08-13,Alto,0.01
+EMP_0824,60,34649.54,México,Metropolitana,1,2024-11-11,Medio,0.2
+EMP_0825,38,35923.13,Veracruz,Sur,5,2024-06-14,Bajo,0.3
+EMP_0826,60,45694.05,Tamaulipas,Metropolitana,2,2024-07-15,Medio,0.01
+EMP_0827,43,32099.0,Jalisco,Centro,4,2024-11-30,Bajo,0.55
+EMP_0828,47,47799.89,Sinaloa,Metropolitana,6,2024-06-05,Alto,0.01
+EMP_0829,46,35269.45,Tabasco,Metropolitana,3,2025-04-06,Bajo,0.3
+EMP_0830,38,23699.12,Tlaxcala,Norte,1,2024-12-07,Alto,0.01
+EMP_0831,34,35785.19,Nayarit,Metropolitana,3,2025-02-17,Medio,0.05
+EMP_0832,41,24195.32,Coahuila,Metropolitana,2,2024-12-09,Bajo,0.45
+EMP_0833,46,36915.79,Colima,Este,4,2024-11-06,Bajo,0.3
+EMP_0834,25,50604.19,Guanajuato,Sur,2,2025-02-14,Medio,0.2
+EMP_0835,31,23636.52,Oaxaca,Este,5,2025-02-15,Alto,0.01
+EMP_0836,24,42011.95,Baja California,Este,3,2024-11-25,Bajo,0.45
+EMP_0837,62,26065.95,Puebla,Oeste,4,2024-10-20,Bajo,0.35
+EMP_0838,39,39366.88,Hidalgo,Norte,3,2024-12-27,Medio,0.05
+EMP_0839,57,51230.06,Guanajuato,Este,3,2024-09-15,Medio,0.01
+EMP_0840,43,15493.79,Tlaxcala,Centro,0,2025-01-30,Bajo,0.65
+EMP_0841,55,23253.47,Michoacán,Centro,3,2024-10-29,Medio,0.1
+EMP_0842,29,31332.41,Baja California Sur,Metropolitana,0,2024-04-22,Medio,0.55
+EMP_0843,61,41192.69,Tabasco,Oeste,3,2024-06-14,Bajo,0.2
+EMP_0844,40,33977.26,Baja California,Norte,5,2024-08-24,Bajo,0.45
+EMP_0845,63,35655.11,San Luis Potosí,Norte,2,2024-05-22,Bajo,0.2
+EMP_0846,62,82223.28,Sinaloa,Metropolitana,0,2024-10-14,Medio,0.15
+EMP_0847,58,22359.74,Guerrero,Centro,5,2024-12-13,Medio,0.05
+EMP_0848,27,57193.41,Tabasco,Sur,3,2024-05-15,Medio,0.2
+EMP_0849,47,31571.46,Morelos,Oeste,2,2024-09-23,Bajo,0.45
+EMP_0850,55,45242.4,Michoacán,Metropolitana,3,2025-03-16,Bajo,0.2
+EMP_0851,27,85099.69,Baja California,Oeste,2,2024-09-24,Alto,0.01
+EMP_0852,58,47833.01,Durango,Centro,3,2025-01-11,Bajo,0.2
+EMP_0853,54,42150.35,Veracruz,Centro,4,2024-05-20,Medio,0.01
+EMP_0854,43,68847.48,Jalisco,Sur,1,2024-04-23,Medio,0.15
+EMP_0855,42,56949.46,Nayarit,Sur,3,2024-10-20,Bajo,0.3
+EMP_0856,27,26376.86,Nayarit,Norte,2,2024-05-19,Bajo,0.6
+EMP_0857,27,40856.04,Oaxaca,Oeste,2,2024-09-15,Bajo,0.4
+EMP_0858,25,18269.75,Baja California,Oeste,0,2024-10-12,Bajo,0.8
+EMP_0859,51,29258.89,Hidalgo,Centro,3,2025-01-09,Medio,0.1
+EMP_0860,32,41176.43,San Luis Potosí,Norte,3,2024-07-15,Bajo,0.3
+EMP_0861,51,28542.74,Coahuila,Metropolitana,2,2024-11-28,Bajo,0.35
+EMP_0862,52,40511.72,Coahuila,Oeste,1,2024-08-20,Medio,0.01
+EMP_0863,45,36121.59,Aguascalientes,Norte,3,2024-04-26,Bajo,0.3
+EMP_0864,30,45006.7,México,Norte,4,2024-07-23,Medio,0.15
+EMP_0865,24,30647.93,Tlaxcala,Centro,4,2024-11-30,Bajo,0.6
+EMP_0866,52,24932.82,Baja California,Norte,5,2024-11-21,Bajo,0.35
+EMP_0867,61,65594.74,Chihuahua,Sur,5,2025-03-26,Bajo,0.2
+EMP_0868,58,29783.84,Guanajuato,Sur,2,2024-08-26,Bajo,0.35
+EMP_0869,57,47287.64,San Luis Potosí,Este,3,2024-12-01,Alto,0.01
+EMP_0870,45,64479.25,Puebla,Centro,3,2024-12-21,Medio,0.05
+EMP_0871,52,38757.05,Jalisco,Metropolitana,2,2024-11-26,Bajo,0.3
+EMP_0872,27,25783.17,Sinaloa,Este,2,2024-12-10,Bajo,0.6
+EMP_0873,23,33811.49,Oaxaca,Sur,4,2024-09-22,Bajo,0.55
+EMP_0874,41,54557.82,Tlaxcala,Este,1,2025-02-12,Bajo,0.3
+EMP_0875,49,39438.55,Tabasco,Centro,6,2024-08-07,Bajo,0.2
+EMP_0876,32,22425.26,Colima,Centro,1,2024-06-20,Medio,0.2
+EMP_0877,25,46104.12,Durango,Norte,4,2025-04-01,Alto,0.01
+EMP_0878,36,49405.28,Campeche,Oeste,2,2024-08-02,Bajo,0.3
+EMP_0879,27,31504.17,Guerrero,Norte,4,2025-01-19,Medio,0.3
+EMP_0880,51,46355.62,Zacatecas,Centro,3,2025-03-25,Alto,0.01
+EMP_0881,59,40054.95,Jalisco,Sur,5,2025-02-23,Bajo,0.3
+EMP_0882,23,33557.92,Coahuila,Metropolitana,5,2024-11-01,Alto,0.15
+EMP_0883,36,21646.21,Sinaloa,Sur,1,2025-01-12,Medio,0.2
+EMP_0884,32,55892.28,Nayarit,Norte,4,2025-01-16,Bajo,0.3
+EMP_0885,29,49201.75,Chiapas,Metropolitana,2,2025-02-04,Alto,0.01
+EMP_0886,47,45869.45,Hidalgo,Centro,3,2025-03-08,Bajo,0.3
+EMP_0887,26,67360.25,Jalisco,Sur,1,2024-08-04,Bajo,0.55
+EMP_0888,27,53001.61,Sinaloa,Centro,4,2024-08-05,Medio,0.2
+EMP_0889,47,47792.61,Aguascalientes,Metropolitana,3,2024-11-25,Bajo,0.3
+EMP_0890,25,14983.56,Durango,Metropolitana,4,2024-04-24,Bajo,0.7
+EMP_0891,40,58615.71,Nayarit,Sur,4,2024-10-28,Bajo,0.3
+EMP_0892,41,37542.62,Durango,Centro,4,2025-02-19,Medio,0.05
+EMP_0893,54,41150.72,Puebla,Este,3,2024-10-18,Medio,0.01
+EMP_0894,41,41263.49,Michoacán,Centro,1,2024-06-21,Medio,0.05
+EMP_0895,33,49490.36,Hidalgo,Metropolitana,5,2024-06-17,Alto,0.01
+EMP_0896,22,56889.72,Yucatán,Centro,5,2024-04-20,Bajo,0.45
+EMP_0897,47,46802.71,Puebla,Norte,4,2024-12-29,Bajo,0.3
+EMP_0898,35,43919.52,Chiapas,Este,5,2024-11-28,Medio,0.01
+EMP_0899,59,39839.14,Nuevo León,Oeste,3,2024-10-06,Medio,0.05
+EMP_0900,58,9502.93,Sonora,Norte,2,2024-12-07,Bajo,0.45
+EMP_0901,32,32369.23,Quintana Roo,Oeste,5,2024-05-07,Bajo,0.45
+EMP_0902,57,24918.46,Chihuahua,Sur,6,2025-02-26,Alto,0.01
+EMP_0903,34,58941.21,Zacatecas,Oeste,3,2025-04-09,Alto,0.01
+EMP_0904,64,46518.94,México,Centro,0,2024-07-31,Medio,0.25
+EMP_0905,24,30234.69,Chiapas,Oeste,3,2024-06-18,Bajo,0.55
+EMP_0906,54,31473.88,Chihuahua,Metropolitana,1,2024-11-15,Alto,0.01
+EMP_0907,27,31020.62,Campeche,Norte,0,2024-06-24,Alto,0.35
+EMP_0908,31,30799.99,Sonora,Norte,1,2024-08-14,Medio,0.2
+EMP_0909,26,20377.3,Campeche,Oeste,4,2024-07-13,Alto,0.15
+EMP_0910,44,18685.22,Campeche,Norte,2,2024-09-18,Alto,0.01
+EMP_0911,31,36739.9,Tamaulipas,Metropolitana,8,2024-12-20,Alto,0.01
+EMP_0912,23,55833.3,Guerrero,Norte,7,2024-10-01,Alto,0.01
+EMP_0913,34,29287.74,Aguascalientes,Oeste,3,2024-05-06,Medio,0.2
+EMP_0914,61,41002.07,Baja California,Este,3,2024-10-26,Medio,0.01
+EMP_0915,23,48713.15,Chiapas,Este,3,2025-01-22,Bajo,0.4
+EMP_0916,41,24407.57,Coahuila,Sur,0,2024-11-11,Medio,0.4
+EMP_0917,22,36026.49,Querétaro,Norte,3,2024-11-24,Medio,0.2
+EMP_0918,58,27816.7,Chiapas,Oeste,3,2024-06-04,Alto,0.01
+EMP_0919,30,69040.45,Campeche,Norte,4,2024-11-19,Bajo,0.3
+EMP_0920,38,67845.19,Sinaloa,Centro,1,2024-05-26,Medio,0.05
+EMP_0921,30,24417.68,Querétaro,Metropolitana,3,2024-12-13,Bajo,0.45
+EMP_0922,32,42376.69,México,Norte,4,2024-08-05,Medio,0.15
+EMP_0923,36,55661.26,Nuevo León,Norte,4,2024-05-06,Medio,0.15
+EMP_0924,45,50987.3,Guanajuato,Este,2,2024-06-07,Bajo,0.3
+EMP_0925,59,37519.84,Michoacán,Metropolitana,5,2025-01-15,Medio,0.01
+EMP_0926,56,61244.11,Morelos,Oeste,2,2025-02-15,Bajo,0.2
+EMP_0927,51,25290.75,Jalisco,Norte,4,2025-02-10,Bajo,0.45
+EMP_0928,52,32169.14,Veracruz,Este,3,2024-05-02,Medio,0.1
+EMP_0929,26,25564.07,Aguascalientes,Sur,3,2024-06-10,Bajo,0.6
+EMP_0930,35,49662.1,Sonora,Metropolitana,2,2024-07-08,Bajo,0.3
+EMP_0931,32,28765.88,Campeche,Este,2,2025-02-01,Bajo,0.45
+EMP_0932,30,33911.19,Sonora,Este,1,2025-04-05,Bajo,0.45
+EMP_0933,55,46493.52,Puebla,Este,3,2025-01-10,Medio,0.01
+EMP_0934,33,48016.5,Tamaulipas,Norte,5,2024-05-10,Bajo,0.3
+EMP_0935,56,25264.35,Campeche,Norte,1,2024-05-13,Alto,0.01
+EMP_0936,56,55418.13,Nuevo León,Sur,2,2024-11-13,Bajo,0.3
+EMP_0937,22,43576.61,Morelos,Centro,3,2024-04-23,Bajo,0.45
+EMP_0938,61,23560.31,Quintana Roo,Centro,2,2025-03-05,Bajo,0.35
+EMP_0939,43,21352.28,Nayarit,Centro,3,2024-04-20,Medio,0.2
+EMP_0940,50,36086.43,Nayarit,Metropolitana,4,2025-02-11,Medio,0.05
+EMP_0941,29,51023.3,México,Metropolitana,1,2024-08-03,Alto,0.1
+EMP_0942,32,51548.91,Guanajuato,Sur,1,2025-02-04,Medio,0.05
+EMP_0943,62,41875.94,Michoacán,Metropolitana,3,2024-08-12,Bajo,0.2
+EMP_0944,58,37029.49,Campeche,Centro,3,2024-10-26,Medio,0.01
+EMP_0945,35,44564.6,Yucatán,Centro,3,2024-10-18,Alto,0.01
+EMP_0946,51,25793.24,San Luis Potosí,Este,2,2024-10-07,Bajo,0.35
+EMP_0947,56,71310.24,Yucatán,Metropolitana,1,2024-07-28,Bajo,0.2
+EMP_0948,42,70938.98,Colima,Norte,3,2025-02-01,Medio,0.05
+EMP_0949,58,43110.63,Tlaxcala,Norte,5,2025-03-28,Bajo,0.2
+EMP_0950,26,39297.66,Tabasco,Este,0,2024-05-08,Alto,0.2
+EMP_0951,40,30804.98,Querétaro,Este,8,2025-02-16,Bajo,0.35
+EMP_0952,35,44868.87,Puebla,Este,4,2024-09-08,Bajo,0.3
+EMP_0953,47,27542.16,Guanajuato,Norte,1,2024-12-28,Alto,0.01
+EMP_0954,25,14921.45,Tabasco,Centro,6,2024-06-14,Alto,0.15
+EMP_0955,46,12263.19,Morelos,Este,0,2024-10-23,Bajo,0.75
+EMP_0956,63,26375.76,Baja California Sur,Sur,7,2024-09-07,Alto,0.01
+EMP_0957,46,38659.63,Guanajuato,Este,1,2024-08-10,Bajo,0.3
+EMP_0958,39,41472.62,Veracruz,Oeste,3,2024-09-08,Bajo,0.3
+EMP_0959,61,29890.54,Tamaulipas,Este,1,2025-03-14,Alto,0.01
+EMP_0960,29,38435.4,Zacatecas,Norte,1,2025-02-26,Medio,0.2
+EMP_0961,60,32542.71,Puebla,Metropolitana,2,2024-12-01,Bajo,0.35
+EMP_0962,61,24349.7,Colima,Este,8,2024-12-27,Bajo,0.25
+EMP_0963,35,35543.13,Chihuahua,Metropolitana,2,2025-02-01,Medio,0.05
+EMP_0964,53,50270.96,Chihuahua,Oeste,6,2024-05-22,Bajo,0.1
+EMP_0965,59,24794.45,Aguascalientes,Sur,3,2024-12-27,Medio,0.1
+EMP_0966,54,24798.99,Jalisco,Metropolitana,3,2024-06-09,Medio,0.2
+EMP_0967,44,23677.96,Chihuahua,Centro,5,2024-07-16,Bajo,0.45
+EMP_0968,36,16737.26,Jalisco,Este,8,2024-10-25,Medio,0.2
+EMP_0969,54,29969.01,Veracruz,Oeste,3,2024-12-19,Alto,0.01
+EMP_0970,46,48321.62,México,Oeste,2,2024-05-20,Bajo,0.4
+EMP_0971,38,38931.79,Tlaxcala,Metropolitana,2,2025-01-30,Bajo,0.3
+EMP_0972,54,33938.31,Oaxaca,Sur,3,2024-08-01,Bajo,0.3
+EMP_0973,23,38239.56,Colima,Norte,6,2025-01-23,Medio,0.1
+EMP_0974,35,29863.95,Hidalgo,Este,3,2024-07-20,Alto,0.01
+EMP_0975,61,16661.32,Baja California Sur,Oeste,4,2024-12-07,Bajo,0.35
+EMP_0976,61,49686.45,Guerrero,Sur,4,2024-05-23,Bajo,0.15
+EMP_0977,60,55739.81,Quintana Roo,Centro,3,2024-08-22,Bajo,0.2
+EMP_0978,27,27139.28,Baja California Sur,Oeste,4,2025-03-04,Medio,0.35
+EMP_0979,27,34189.22,Coahuila,Sur,5,2024-10-15,Bajo,0.6
+EMP_0980,24,33030.95,Hidalgo,Norte,6,2024-11-08,Alto,0.05
+EMP_0981,28,41794.31,Zacatecas,Norte,3,2025-02-14,Bajo,0.45
+EMP_0982,29,71393.16,Sonora,Oeste,4,2024-05-04,Medio,0.2
+EMP_0983,63,57752.19,San Luis Potosí,Oeste,6,2024-08-08,Medio,0.01
+EMP_0984,36,31233.12,Campeche,Metropolitana,2,2024-10-04,Medio,0.2
+EMP_0985,50,45115.7,Sonora,Este,8,2025-03-21,Bajo,0.2
+EMP_0986,54,59978.58,Sonora,Sur,3,2025-01-24,Medio,0.01
+EMP_0987,51,42759.13,Oaxaca,Oeste,1,2024-12-01,Bajo,0.15
+EMP_0988,60,36247.3,Zacatecas,Este,4,2024-09-13,Bajo,0.2
+EMP_0989,48,43408.04,Guerrero,Metropolitana,4,2024-05-01,Medio,0.01
+EMP_0990,57,27410.77,Yucatán,Este,1,2024-10-30,Medio,0.1
+EMP_0991,50,29059.12,Veracruz,Oeste,1,2024-05-01,Bajo,0.45
+EMP_0992,59,23727.41,Aguascalientes,Norte,5,2024-05-12,Bajo,0.35
+EMP_0993,54,41061.48,México,Sur,4,2025-02-02,Alto,0.01
+EMP_0994,58,34456.01,Zacatecas,Sur,3,2024-09-12,Alto,0.01
+EMP_0995,48,26127.74,Campeche,Norte,2,2025-02-08,Bajo,0.45
+EMP_0996,54,34007.22,Nayarit,Oeste,1,2024-09-05,Medio,0.1
+EMP_0997,25,43826.74,Zacatecas,Sur,5,2024-06-10,Bajo,0.45
+EMP_0998,43,78110.9,Nuevo León,Oeste,5,2024-07-02,Medio,0.15
+EMP_0999,23,54438.51,Chihuahua,Metropolitana,2,2024-10-11,Alto,0.01
+EMP_1000,31,14564.48,Oaxaca,Oeste,4,2024-09-19,Bajo,0.5
